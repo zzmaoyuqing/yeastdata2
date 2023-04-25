@@ -1,0 +1,168 @@
+
+------------------------第1轮训练------------------------
+运行时间： 5.255955696105957
+第24次训练的loss=0.5879781246185303
+运行时间： 5.534914255142212
+第48次训练的loss=0.5178309082984924
+Epoch[1/60]	
+Train dataset	loss:26.65064	accuracy:0.760798	f-score:0.016151	precision:0.187500	recall:0.008439	mcc:-0.010994	auc:0.498676	aupr:0.213316	
+Val dataset	loss:9.69700	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+save model1
+------------------------第2轮训练------------------------
+运行时间： 0.2108936309814453
+第24次训练的loss=0.5604076981544495
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.4654867649078369
+第48次训练的loss=0.5011449456214905
+Epoch[2/60]	
+Train dataset	loss:25.01699	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.55084	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第3轮训练------------------------
+运行时间： 0.21504759788513184
+第24次训练的loss=0.5440894365310669
+运行时间： 0.4723649024963379
+第48次训练的loss=0.4969829320907593
+Epoch[3/60]	
+Train dataset	loss:24.64800	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.44039	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第4轮训练------------------------
+运行时间： 0.2088942527770996
+第24次训练的loss=0.5328596830368042
+运行时间： 0.44894957542419434
+第48次训练的loss=0.48462775349617004
+Epoch[4/60]	
+Train dataset	loss:24.15586	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.19953	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第5轮训练------------------------
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.22212600708007812
+第24次训练的loss=0.5521825551986694
+运行时间： 0.4441659450531006
+第48次训练的loss=0.49467912316322327
+Epoch[5/60]	
+Train dataset	loss:24.12968	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.32079	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第6轮训练------------------------
+运行时间： 0.18928050994873047
+第24次训练的loss=0.5368378758430481
+运行时间： 0.394162654876709
+第48次训练的loss=0.48624444007873535
+Epoch[6/60]	
+Train dataset	loss:24.07143	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.33617	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第7轮训练------------------------
+运行时间： 0.18927431106567383
+第24次训练的loss=0.5291918516159058
+运行时间： 0.41054749488830566
+第48次训练的loss=0.49855324625968933
+Epoch[7/60]	
+Train dataset	loss:23.98343	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.26023	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第8轮训练------------------------
+运行时间： 0.18985915184020996
+第24次训练的loss=0.5148220658302307
+运行时间： 0.40999436378479004
+第48次训练的loss=0.484054833650589
+Epoch[8/60]	
+Train dataset	loss:23.86801	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.23069	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第9轮训练------------------------
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.16780948638916016
+第24次训练的loss=0.51393723487854
+运行时间： 0.3773374557495117
+第48次训练的loss=0.49345552921295166
+Epoch[9/60]	
+Train dataset	loss:23.94820	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.29223	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第10轮训练------------------------
+运行时间： 0.23000550270080566
+第24次训练的loss=0.5183937549591064
+运行时间： 0.43325304985046387
+第48次训练的loss=0.4792085587978363
+Epoch[10/60]	
+Train dataset	loss:23.90474	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.26698	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第11轮训练------------------------
+运行时间： 0.25196361541748047
+第24次训练的loss=0.5170844197273254
+运行时间： 0.45676159858703613
+第48次训练的loss=0.4899084270000458
+Epoch[11/60]	
+Train dataset	loss:23.90853	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.29244	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第12轮训练------------------------
+运行时间： 0.2543952465057373
+第24次训练的loss=0.5322206020355225
+运行时间： 0.42081713676452637
+第48次训练的loss=0.500497043132782
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Epoch[12/60]	
+Train dataset	loss:23.84363	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.26701	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第13轮训练------------------------
+运行时间： 0.22328805923461914
+第24次训练的loss=0.5111730694770813
+运行时间： 0.4024183750152588
+第48次训练的loss=0.48710429668426514
+Epoch[13/60]	
+Train dataset	loss:23.78387	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.24348	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第14轮训练------------------------
+运行时间： 0.1658463478088379
+第24次训练的loss=0.5091670751571655
+运行时间： 0.42061662673950195
+第48次训练的loss=0.4827362596988678
+Epoch[14/60]	
+Train dataset	loss:23.98394	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.30524	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369

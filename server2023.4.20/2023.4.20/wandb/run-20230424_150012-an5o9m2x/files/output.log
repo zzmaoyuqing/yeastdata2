@@ -1,0 +1,507 @@
+
+------------------------第1轮训练------------------------
+运行时间： 4.742249011993408
+第24次训练的loss=0.5865708589553833
+运行时间： 4.978294849395752
+第48次训练的loss=0.5376197695732117
+Epoch[1/60]	
+Train dataset	loss:26.89581	accuracy:0.758835	f-score:0.026420	precision:0.217391	recall:0.014065	mcc:-0.004466	auc:0.499356	aupr:0.230420	
+Val dataset	loss:9.61031	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+save model1
+------------------------第2轮训练------------------------
+运行时间： 0.22290420532226562
+第24次训练的loss=0.5668877959251404
+运行时间： 0.4289538860321045
+第48次训练的loss=0.5129404067993164
+Epoch[2/60]	
+Train dataset	loss:25.50052	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:9.29918	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第3轮训练------------------------
+运行时间： 0.21280550956726074
+第24次训练的loss=0.5442915558815002
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.41829681396484375
+第48次训练的loss=0.5059176087379456
+Epoch[3/60]	
+Train dataset	loss:24.85977	accuracy:0.767016	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:-0.009962	auc:0.499787	aupr:0.116329	
+Val dataset	loss:9.04523	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第4轮训练------------------------
+运行时间： 0.23583197593688965
+第24次训练的loss=0.5544921159744263
+运行时间： 0.41439032554626465
+第48次训练的loss=0.48734673857688904
+Epoch[4/60]	
+Train dataset	loss:24.36091	accuracy:0.767997	f-score:0.013908	precision:0.625000	recall:0.007032	mcc:0.047572	auc:0.502877	aupr:0.431527	
+Val dataset	loss:8.90849	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第5轮训练------------------------
+运行时间： 0.24436545372009277
+第24次训练的loss=0.5537827014923096
+运行时间： 0.4337749481201172
+第48次训练的loss=0.5008062720298767
+Epoch[5/60]	
+Train dataset	loss:24.19198	accuracy:0.767016	f-score:0.032609	precision:0.480000	recall:0.016878	mcc:0.053165	auc:0.505667	aupr:0.362804	
+Val dataset	loss:9.01441	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第6轮训练------------------------
+运行时间： 0.20012879371643066
+第24次训练的loss=0.542488157749176
+运行时间： 0.4146850109100342
+第48次训练的loss=0.5006795525550842
+Epoch[6/60]	
+Train dataset	loss:24.03282	accuracy:0.769306	f-score:0.043419	precision:0.615385	recall:0.022504	mcc:0.083908	auc:0.509120	aupr:0.432655	
+Val dataset	loss:9.03392	accuracy:0.762279	f-score:0.008197	precision:0.333333	recall:0.004149	mcc:0.012354	auc:0.500788	aupr:0.286620
+------------------------第7轮训练------------------------
+运行时间： 0.2094712257385254
+第24次训练的loss=0.5242109298706055
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.447338342666626
+第48次训练的loss=0.5042991638183594
+Epoch[7/60]	
+Train dataset	loss:23.93824	accuracy:0.767343	f-score:0.045638	precision:0.500000	recall:0.023910	mcc:0.067113	auc:0.508330	aupr:0.375502	
+Val dataset	loss:8.84261	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+------------------------第8轮训练------------------------
+运行时间： 0.18842363357543945
+第24次训练的loss=0.5051982998847961
+运行时间： 0.38201904296875
+第48次训练的loss=0.4858246147632599
+Epoch[8/60]	
+Train dataset	loss:23.77026	accuracy:0.770288	f-score:0.113636	precision:0.555556	recall:0.063291	mcc:0.126099	auc:0.523970	aupr:0.418389	
+Val dataset	loss:8.86346	accuracy:0.783890	f-score:0.360465	precision:0.601942	recall:0.257261	mcc:0.288251	auc:0.602247	aupr:0.517519
+save model8
+------------------------第9轮训练------------------------
+运行时间： 0.16219234466552734
+第24次训练的loss=0.49700117111206055
+运行时间： 0.3591649532318115
+第48次训练的loss=0.5052875876426697
+Epoch[9/60]	
+Train dataset	loss:23.80010	accuracy:0.773887	f-score:0.168472	precision:0.583333	recall:0.098453	mcc:0.167790	auc:0.538565	aupr:0.445769	
+Val dataset	loss:8.66233	accuracy:0.783890	f-score:0.385475	precision:0.589744	recall:0.286307	mcc:0.299254	auc:0.612265	aupr:0.522505
+------------------------第10轮训练------------------------
+运行时间： 0.21308112144470215
+第24次训练的loss=0.49948811531066895
+运行时间： 0.3935120105743408
+第48次训练的loss=0.49084439873695374
+Epoch[10/60]	
+Train dataset	loss:23.50925	accuracy:0.772251	f-score:0.201835	precision:0.546584	recall:0.123769	mcc:0.175212	auc:0.546320	aupr:0.437107	
+Val dataset	loss:8.61078	accuracy:0.786837	f-score:0.319749	precision:0.653846	recall:0.211618	mcc:0.282657	auc:0.588435	aupr:0.526052
+save model10
+------------------------第11轮训练------------------------
+运行时间： 0.24564146995544434
+第24次训练的loss=0.5145511031150818
+运行时间： 0.42234039306640625
+第48次训练的loss=0.4906448423862457
+Epoch[11/60]	
+Train dataset	loss:23.48885	accuracy:0.776832	f-score:0.228507	precision:0.583815	recall:0.142053	mcc:0.203587	auc:0.555675	aupr:0.462738	
+Val dataset	loss:8.54311	accuracy:0.789784	f-score:0.377907	precision:0.631068	recall:0.269710	mcc:0.311240	auc:0.610402	aupr:0.536833
+save model11
+------------------------第12轮训练------------------------
+运行时间： 0.21010684967041016
+第24次训练的loss=0.5321230888366699
+运行时间： 0.43094825744628906
+第48次训练的loss=0.47227099537849426
+Epoch[12/60]	
+Train dataset	loss:23.29717	accuracy:0.778141	f-score:0.275641	precision:0.573333	recall:0.181435	mcc:0.227306	auc:0.570248	aupr:0.472606	
+Val dataset	loss:8.57335	accuracy:0.791749	f-score:0.365269	precision:0.655914	recall:0.253112	mcc:0.312676	auc:0.605964	aupr:0.542922
+save model12
+------------------------第13轮训练------------------------
+运行时间： 0.19173216819763184
+第24次训练的loss=0.4918852746486664
+运行时间： 0.4406239986419678
+第48次训练的loss=0.46197569370269775
+Epoch[13/60]	
+Train dataset	loss:23.23892	accuracy:0.773887	f-score:0.248096	precision:0.548077	recall:0.160338	mcc:0.201743	auc:0.560126	aupr:0.451884	
+Val dataset	loss:8.59290	accuracy:0.792731	f-score:0.402266	precision:0.633929	recall:0.294606	mcc:0.328528	auc:0.620919	aupr:0.547764
+save model13
+------------------------第14轮训练------------------------
+运行时间： 0.1878669261932373
+第24次训练的loss=0.5083470344543457
+运行时间： 0.37546253204345703
+第48次训练的loss=0.4584399461746216
+Epoch[14/60]	
+Train dataset	loss:23.58774	accuracy:0.773560	f-score:0.220721	precision:0.553672	recall:0.137834	mcc:0.188382	auc:0.552073	aupr:0.446048	
+Val dataset	loss:8.62371	accuracy:0.792731	f-score:0.370149	precision:0.659574	recall:0.257261	mcc:0.317270	auc:0.608039	aupr:0.546335
+------------------------第15轮训练------------------------
+运行时间： 0.1591329574584961
+第24次训练的loss=0.5022348761558533
+运行时间： 0.35087108612060547
+第48次训练的loss=0.4787999391555786
+Epoch[15/60]	
+Train dataset	loss:23.27458	accuracy:0.776832	f-score:0.258696	precision:0.569378	recall:0.167370	mcc:0.215922	auc:0.564495	aupr:0.465233	
+Val dataset	loss:8.54189	accuracy:0.793713	f-score:0.458763	precision:0.605442	recall:0.369295	mcc:0.356333	auc:0.647324	aupr:0.562025
+save model15
+------------------------第16轮训练------------------------
+运行时间： 0.2184913158416748
+第24次训练的loss=0.4907793402671814
+运行时间： 0.37991857528686523
+第48次训练的loss=0.4659580886363983
+Epoch[16/60]	
+Train dataset	loss:23.11046	accuracy:0.781086	f-score:0.315251	precision:0.578947	recall:0.216596	mcc:0.253062	auc:0.584418	aupr:0.488904	
+Val dataset	loss:8.35148	accuracy:0.794695	f-score:0.421053	precision:0.633333	recall:0.315353	mcc:0.341058	auc:0.629362	aupr:0.555384
+save model16
+------------------------第17轮训练------------------------
+运行时间： 0.24487733840942383
+第24次训练的loss=0.5156784653663635
+运行时间： 0.4760739803314209
+第48次训练的loss=0.5005245208740234
+Epoch[17/60]	
+Train dataset	loss:23.30833	accuracy:0.772579	f-score:0.262990	precision:0.534483	recall:0.174402	mcc:0.204746	auc:0.564173	aupr:0.450483	
+Val dataset	loss:8.50542	accuracy:0.792731	f-score:0.443272	precision:0.608696	recall:0.348548	mcc:0.346513	auc:0.639525	aupr:0.555734
+------------------------第18轮训练------------------------
+运行时间： 0.23349452018737793
+第24次训练的loss=0.5202933549880981
+运行时间： 0.44519829750061035
+第48次训练的loss=0.44211164116859436
+Epoch[18/60]	
+Train dataset	loss:23.22720	accuracy:0.777160	f-score:0.286911	precision:0.561475	recall:0.192686	mcc:0.229240	auc:0.573529	aupr:0.470994	
+Val dataset	loss:8.44431	accuracy:0.795678	f-score:0.443850	precision:0.624060	recall:0.344398	mcc:0.353227	auc:0.640024	aupr:0.561832
+save model18
+------------------------第19轮训练------------------------
+运行时间： 0.22462677955627441
+第24次训练的loss=0.4979149401187897
+运行时间： 0.4355030059814453
+第48次训练的loss=0.4704784154891968
+Epoch[19/60]	
+Train dataset	loss:22.98734	accuracy:0.781086	f-score:0.330330	precision:0.572917	recall:0.232068	mcc:0.259759	auc:0.589808	aupr:0.491825	
+Val dataset	loss:8.35930	accuracy:0.795678	f-score:0.472081	precision:0.607843	recall:0.385892	mcc:0.367166	auc:0.654336	aupr:0.569559
+------------------------第20轮训练------------------------
+运行时间： 0.2099132537841797
+第24次训练的loss=0.4805237948894501
+运行时间： 0.4296684265136719
+第48次训练的loss=0.500877320766449
+Epoch[20/60]	
+Train dataset	loss:23.15549	accuracy:0.783377	f-score:0.336673	precision:0.585366	recall:0.236287	mcc:0.268747	auc:0.592770	aupr:0.499668	
+Val dataset	loss:8.31514	accuracy:0.796660	f-score:0.459530	precision:0.619718	recall:0.365145	mcc:0.362741	auc:0.647824	aupr:0.567579
+save model20
+------------------------第21轮训练------------------------
+运行时间： 0.19882440567016602
+第24次训练的loss=0.4914102852344513
+运行时间： 0.4311051368713379
+第48次训练的loss=0.4726962149143219
+Epoch[21/60]	
+Train dataset	loss:22.96397	accuracy:0.781741	f-score:0.311662	precision:0.585271	recall:0.212377	mcc:0.253415	auc:0.583374	aupr:0.490447	
+Val dataset	loss:8.37668	accuracy:0.787819	f-score:0.495327	precision:0.566845	recall:0.439834	mcc:0.368386	auc:0.667793	aupr:0.569646
+------------------------第22轮训练------------------------
+运行时间： 0.20305919647216797
+第24次训练的loss=0.4821030795574188
+运行时间： 0.4457831382751465
+第48次训练的loss=0.482670396566391
+Epoch[22/60]	
+Train dataset	loss:22.84845	accuracy:0.781741	f-score:0.342857	precision:0.572368	recall:0.244726	mcc:0.267220	auc:0.594644	aupr:0.496407	
+Val dataset	loss:8.33236	accuracy:0.786837	f-score:0.486998	precision:0.565934	recall:0.427386	mcc:0.361339	auc:0.662856	aupr:0.564440
+------------------------第23轮训练------------------------
+运行时间： 0.20636439323425293
+第24次训练的loss=0.4824967384338379
+运行时间： 0.43454837799072266
+第48次训练的loss=0.4548608958721161
+Epoch[23/60]	
+Train dataset	loss:22.85775	accuracy:0.776832	f-score:0.309717	precision:0.552347	recall:0.215190	mcc:0.238875	auc:0.581156	aupr:0.475064	
+Val dataset	loss:8.34011	accuracy:0.783890	f-score:0.502262	precision:0.552239	recall:0.460581	mcc:0.368142	auc:0.672375	aupr:0.570261
+------------------------第24轮训练------------------------
+运行时间： 0.19903564453125
+第24次训练的loss=0.5047889351844788
+运行时间： 0.41169095039367676
+第48次训练的loss=0.45945146679878235
+Epoch[24/60]	
+Train dataset	loss:22.84446	accuracy:0.783377	f-score:0.335341	precision:0.585965	recall:0.234880	mcc:0.268167	auc:0.592280	aupr:0.499428	
+Val dataset	loss:8.28938	accuracy:0.781925	f-score:0.486111	precision:0.549738	recall:0.435685	mcc:0.353864	auc:0.662501	aupr:0.559509
+------------------------第25轮训练------------------------
+运行时间： 0.21532058715820312
+第24次训练的loss=0.4859306514263153
+运行时间： 0.41455888748168945
+第48次训练的loss=0.45621511340141296
+Epoch[25/60]	
+Train dataset	loss:22.67945	accuracy:0.781741	f-score:0.318693	precision:0.582090	recall:0.219409	mcc:0.256408	auc:0.585824	aupr:0.491554	
+Val dataset	loss:8.25960	accuracy:0.786837	f-score:0.510158	precision:0.559406	recall:0.468880	mcc:0.377672	auc:0.677168	aupr:0.577011
+------------------------第26轮训练------------------------
+运行时间： 0.21043157577514648
+第24次训练的loss=0.49255555868148804
+运行时间： 0.4143490791320801
+第48次训练的loss=0.4708881080150604
+Epoch[26/60]	
+Train dataset	loss:22.69457	accuracy:0.783377	f-score:0.327236	precision:0.589744	recall:0.226442	mcc:0.264695	auc:0.589340	aupr:0.498080	
+Val dataset	loss:8.19485	accuracy:0.786837	f-score:0.507937	precision:0.560000	recall:0.464730	mcc:0.376029	auc:0.675737	aupr:0.575725
+------------------------第27轮训练------------------------
+运行时间： 0.18639779090881348
+第24次训练的loss=0.4981132447719574
+运行时间： 0.39733457565307617
+第48次训练的loss=0.426390141248703
+Epoch[27/60]	
+Train dataset	loss:22.45301	accuracy:0.786976	f-score:0.364878	precision:0.595541	recall:0.263010	mcc:0.290634	auc:0.604426	aupr:0.515009	
+Val dataset	loss:8.16229	accuracy:0.783890	f-score:0.508929	precision:0.550725	recall:0.473029	mcc:0.373176	auc:0.676669	aupr:0.574254
+------------------------第28轮训练------------------------
+运行时间： 0.21787047386169434
+第24次训练的loss=0.4754033088684082
+运行时间： 0.4279356002807617
+第48次训练的loss=0.45735231041908264
+Epoch[28/60]	
+Train dataset	loss:22.57445	accuracy:0.788940	f-score:0.363277	precision:0.609272	recall:0.258790	mcc:0.295166	auc:0.604235	aupr:0.520255	
+Val dataset	loss:8.33432	accuracy:0.779961	f-score:0.523404	precision:0.537118	recall:0.510373	mcc:0.380696	auc:0.686976	aupr:0.581702
+------------------------第29轮训练------------------------
+运行时间： 0.20241141319274902
+第24次训练的loss=0.48709091544151306
+运行时间： 0.41152405738830566
+第48次训练的loss=0.4570387601852417
+Epoch[29/60]	
+Train dataset	loss:22.75655	accuracy:0.788940	f-score:0.334365	precision:0.627907	recall:0.227848	mcc:0.284057	auc:0.593455	aupr:0.517701	
+Val dataset	loss:8.21638	accuracy:0.783890	f-score:0.517544	precision:0.548837	recall:0.489627	mcc:0.379911	auc:0.682394	aupr:0.579644
+------------------------第30轮训练------------------------
+运行时间： 0.2259533405303955
+第24次训练的loss=0.47860482335090637
+运行时间： 0.4280116558074951
+第48次训练的loss=0.4815044403076172
+Epoch[30/60]	
+Train dataset	loss:22.35741	accuracy:0.784359	f-score:0.346878	precision:0.587248	recall:0.246132	mcc:0.275858	auc:0.596840	aupr:0.504387	
+Val dataset	loss:8.10841	accuracy:0.785855	f-score:0.521930	precision:0.553488	recall:0.493776	mcc:0.385573	auc:0.685112	aupr:0.583554
+------------------------第31轮训练------------------------
+运行时间： 0.22251486778259277
+第24次训练的loss=0.4989345967769623
+运行时间： 0.4287881851196289
+第48次训练的loss=0.39407554268836975
+Epoch[31/60]	
+Train dataset	loss:22.32057	accuracy:0.791230	f-score:0.375734	precision:0.617363	recall:0.270042	mcc:0.306468	auc:0.609648	aupr:0.528618	
+Val dataset	loss:8.03792	accuracy:0.788802	f-score:0.521158	precision:0.562500	recall:0.485477	mcc:0.388345	auc:0.684180	aupr:0.584892
+------------------------第32轮训练------------------------
+运行时间： 0.24491190910339355
+第24次训练的loss=0.4976228177547455
+运行时间： 0.41423988342285156
+第48次训练的loss=0.4297419786453247
+Epoch[32/60]	
+Train dataset	loss:22.13469	accuracy:0.798429	f-score:0.404255	precision:0.647059	recall:0.293952	mcc:0.337171	auc:0.622669	aupr:0.552639	
+Val dataset	loss:8.06122	accuracy:0.788802	f-score:0.527473	precision:0.560748	recall:0.497925	mcc:0.393246	auc:0.688474	aupr:0.588767
+------------------------第33轮训练------------------------
+运行时间： 0.23688554763793945
+第24次训练的loss=0.47991886734962463
+运行时间： 0.41289496421813965
+第48次训练的loss=0.43022584915161133
+Epoch[33/60]	
+Train dataset	loss:22.47075	accuracy:0.790576	f-score:0.354839	precision:0.626335	recall:0.247539	mcc:0.296490	auc:0.601381	aupr:0.524469	
+Val dataset	loss:8.11780	accuracy:0.788802	f-score:0.533623	precision:0.559091	recall:0.510373	mcc:0.398171	auc:0.692767	aupr:0.592689
+------------------------第34轮训练------------------------
+运行时间： 0.19260931015014648
+第24次训练的loss=0.48454442620277405
+运行时间： 0.4346590042114258
+第48次训练的loss=0.43771135807037354
+Epoch[34/60]	
+Train dataset	loss:21.98385	accuracy:0.789267	f-score:0.384321	precision:0.600000	recall:0.282700	mcc:0.305054	auc:0.612779	aupr:0.524793	
+Val dataset	loss:7.97873	accuracy:0.790766	f-score:0.527716	precision:0.566667	recall:0.493776	mcc:0.395687	auc:0.688329	aupr:0.590143
+------------------------第35轮训练------------------------
+运行时间： 0.2068796157836914
+第24次训练的loss=0.48904773592948914
+运行时间： 0.4349384307861328
+第48次训练的loss=0.4485292136669159
+Epoch[35/60]	
+Train dataset	loss:22.23479	accuracy:0.793521	f-score:0.374628	precision:0.634228	recall:0.265823	mcc:0.312407	auc:0.609670	aupr:0.535431	
+Val dataset	loss:7.97513	accuracy:0.795678	f-score:0.527273	precision:0.582915	recall:0.481328	mcc:0.401430	auc:0.687253	aupr:0.593516
+------------------------第36轮训练------------------------
+运行时间： 0.17960548400878906
+第24次训练的loss=0.46621885895729065
+运行时间： 0.3717329502105713
+第48次训练的loss=0.407174676656723
+Epoch[36/60]	
+Train dataset	loss:22.00420	accuracy:0.789921	f-score:0.368110	precision:0.613115	recall:0.263010	mcc:0.299818	auc:0.606345	aupr:0.523795	
+Val dataset	loss:8.03227	accuracy:0.791749	f-score:0.537118	precision:0.566820	recall:0.510373	mcc:0.404170	auc:0.694698	aupr:0.596554
+------------------------第37轮训练------------------------
+运行时间： 0.16453051567077637
+第24次训练的loss=0.5151097774505615
+运行时间： 0.35617852210998535
+第48次训练的loss=0.42715561389923096
+Epoch[37/60]	
+Train dataset	loss:22.12156	accuracy:0.793521	f-score:0.374628	precision:0.634228	recall:0.265823	mcc:0.312407	auc:0.609670	aupr:0.535431	
+Val dataset	loss:7.93005	accuracy:0.790766	f-score:0.523490	precision:0.567961	recall:0.485477	mcc:0.392468	auc:0.685467	aupr:0.587623
+------------------------第38轮训练------------------------
+运行时间： 0.22458624839782715
+第24次训练的loss=0.5059351325035095
+运行时间： 0.3843114376068115
+第48次训练的loss=0.41732481122016907
+Epoch[38/60]	
+Train dataset	loss:21.98860	accuracy:0.797775	f-score:0.408046	precision:0.639640	recall:0.299578	mcc:0.336838	auc:0.624203	aupr:0.551088	
+Val dataset	loss:7.76603	accuracy:0.791749	f-score:0.522523	precision:0.571429	recall:0.481328	mcc:0.392953	auc:0.684679	aupr:0.587773
+------------------------第39轮训练------------------------
+运行时间： 0.23269438743591309
+第24次训练的loss=0.48276886343955994
+运行时间： 0.41211748123168945
+第48次训练的loss=0.4049164354801178
+Epoch[39/60]	
+Train dataset	loss:21.79867	accuracy:0.798429	f-score:0.385230	precision:0.663230	recall:0.271449	mcc:0.330593	auc:0.614829	aupr:0.552091	
+Val dataset	loss:7.65515	accuracy:0.793713	f-score:0.492754	precision:0.589595	recall:0.423237	mcc:0.375597	auc:0.665930	aupr:0.574687
+------------------------第40轮训练------------------------
+运行时间： 0.19374299049377441
+第24次训练的loss=0.48387548327445984
+运行时间： 0.4327399730682373
+第48次训练的loss=0.4452848434448242
+Epoch[40/60]	
+Train dataset	loss:21.84189	accuracy:0.805301	f-score:0.416094	precision:0.688312	recall:0.298172	mcc:0.361035	auc:0.628617	aupr:0.574884	
+Val dataset	loss:7.71139	accuracy:0.789784	f-score:0.522321	precision:0.565217	recall:0.485477	mcc:0.390401	auc:0.684824	aupr:0.586251
+------------------------第41轮训练------------------------
+运行时间： 0.18320131301879883
+第24次训练的loss=0.47470566630363464
+运行时间： 0.3863086700439453
+第48次训练的loss=0.4467758238315582
+Epoch[41/60]	
+Train dataset	loss:21.80922	accuracy:0.803338	f-score:0.417071	precision:0.671875	recall:0.302391	mcc:0.355504	auc:0.628807	aupr:0.568285	
+Val dataset	loss:7.73270	accuracy:0.793713	f-score:0.535398	precision:0.573460	recall:0.502075	mcc:0.405045	auc:0.693122	aupr:0.596706
+------------------------第42轮训练------------------------
+运行时间： 0.17566442489624023
+第24次训练的loss=0.4940405488014221
+运行时间： 0.3724398612976074
+第48次训练的loss=0.42194220423698425
+Epoch[42/60]	
+Train dataset	loss:21.80966	accuracy:0.797775	f-score:0.404624	precision:0.642202	recall:0.295359	mcc:0.335522	auc:0.622733	aupr:0.550750	
+Val dataset	loss:7.80652	accuracy:0.788802	f-score:0.547368	precision:0.555556	recall:0.539419	mcc:0.409751	auc:0.702785	aupr:0.602006
+------------------------第43轮训练------------------------
+运行时间： 0.1907055377960205
+第24次训练的loss=0.47055891156196594
+运行时间： 0.39522743225097656
+第48次训练的loss=0.4320613443851471
+Epoch[43/60]	
+Train dataset	loss:21.64642	accuracy:0.801047	f-score:0.424242	precision:0.649275	recall:0.315049	mcc:0.351747	auc:0.631725	aupr:0.561842	
+Val dataset	loss:7.61522	accuracy:0.791749	f-score:0.526786	precision:0.570048	recall:0.489627	mcc:0.396142	auc:0.687542	aupr:0.590250
+------------------------第44轮训练------------------------
+运行时间： 0.25287485122680664
+第24次训练的loss=0.4954361617565155
+运行时间： 0.37585020065307617
+第48次训练的loss=0.44244101643562317
+Epoch[44/60]	
+Train dataset	loss:21.63422	accuracy:0.800720	f-score:0.397626	precision:0.670000	recall:0.282700	mcc:0.341500	auc:0.620241	aupr:0.559793	
+Val dataset	loss:7.99194	accuracy:0.777014	f-score:0.550495	precision:0.526515	recall:0.576763	mcc:0.403374	auc:0.707944	aupr:0.601738
+------------------------第45轮训练------------------------
+运行时间： 0.21571731567382812
+第24次训练的loss=0.46607711911201477
+运行时间： 0.44024181365966797
+第48次训练的loss=0.45309165120124817
+Epoch[45/60]	
+Train dataset	loss:21.43229	accuracy:0.801702	f-score:0.433645	precision:0.646240	recall:0.326301	mcc:0.357122	auc:0.636072	aupr:0.564641	
+Val dataset	loss:7.67584	accuracy:0.788802	f-score:0.519016	precision:0.563107	recall:0.481328	mcc:0.386716	auc:0.682749	aupr:0.583612
+------------------------第46轮训练------------------------
+运行时间： 0.20736074447631836
+第24次训练的loss=0.5001422762870789
+运行时间： 0.42795586585998535
+第48次训练的loss=0.45203232765197754
+Epoch[46/60]	
+Train dataset	loss:21.30869	accuracy:0.798429	f-score:0.400778	precision:0.649842	recall:0.289733	mcc:0.335900	auc:0.621199	aupr:0.552412	
+Val dataset	loss:8.05030	accuracy:0.778978	f-score:0.550898	precision:0.530769	recall:0.572614	mcc:0.405110	auc:0.707800	aupr:0.602281
+------------------------第47轮训练------------------------
+运行时间： 0.1964433193206787
+第24次训练的loss=0.490991473197937
+运行时间： 0.43100881576538086
+第48次训练的loss=0.4117833375930786
+Epoch[47/60]	
+Train dataset	loss:21.56982	accuracy:0.802683	f-score:0.428436	precision:0.656977	recall:0.317862	mcc:0.357664	auc:0.633771	aupr:0.566772	
+Val dataset	loss:7.99991	accuracy:0.779961	f-score:0.552000	precision:0.532819	recall:0.572614	mcc:0.406880	auc:0.708443	aupr:0.603306
+------------------------第48轮训练------------------------
+运行时间： 0.19461894035339355
+第24次训练的loss=0.4825374186038971
+运行时间： 0.44550633430480957
+第48次训练的loss=0.47025108337402344
+Epoch[48/60]	
+Train dataset	loss:21.17766	accuracy:0.805955	f-score:0.435775	precision:0.673529	recall:0.322082	mcc:0.369177	auc:0.637373	aupr:0.576667	
+Val dataset	loss:7.74531	accuracy:0.780943	f-score:0.534447	precision:0.537815	recall:0.531120	mcc:0.391243	auc:0.694775	aupr:0.589969
+------------------------第49轮训练------------------------
+运行时间： 0.19623756408691406
+第24次训练的loss=0.5166136622428894
+运行时间： 0.4509546756744385
+第48次训练的loss=0.4166572391986847
+Epoch[49/60]	
+Train dataset	loss:21.10005	accuracy:0.803010	f-score:0.429924	precision:0.657971	recall:0.319269	mcc:0.359089	auc:0.634474	aupr:0.567808	
+Val dataset	loss:7.48768	accuracy:0.796660	f-score:0.517483	precision:0.590426	recall:0.460581	mcc:0.395993	auc:0.680741	aupr:0.589354
+------------------------第50轮训练------------------------
+运行时间： 0.205078125
+第24次训练的loss=0.4924214482307434
+运行时间： 0.40334486961364746
+第48次训练的loss=0.43849554657936096
+Epoch[50/60]	
+Train dataset	loss:20.88653	accuracy:0.807592	f-score:0.441065	precision:0.680352	recall:0.326301	mcc:0.375510	auc:0.639910	aupr:0.581697	
+Val dataset	loss:7.62755	accuracy:0.785855	f-score:0.538136	precision:0.549784	recall:0.526971	mcc:0.398983	auc:0.696561	aupr:0.594369
+------------------------第51轮训练------------------------
+运行时间： 0.16228103637695312
+第24次训练的loss=0.4937717914581299
+运行时间： 0.36224913597106934
+第48次训练的loss=0.4495506286621094
+Epoch[51/60]	
+Train dataset	loss:20.99499	accuracy:0.807592	f-score:0.455556	precision:0.666667	recall:0.345992	mcc:0.380650	auc:0.646770	aupr:0.582409	
+Val dataset	loss:7.55656	accuracy:0.787819	f-score:0.526316	precision:0.558140	recall:0.497925	mcc:0.391235	auc:0.687830	aupr:0.587463
+------------------------第52轮训练------------------------
+运行时间： 0.17925810813903809
+第24次训练的loss=0.4911453127861023
+运行时间： 0.3809528350830078
+第48次训练的loss=0.4359911382198334
+Epoch[52/60]	
+Train dataset	loss:20.92960	accuracy:0.809555	f-score:0.453008	precision:0.682720	recall:0.338959	mcc:0.384932	auc:0.645599	aupr:0.587737	
+Val dataset	loss:7.58819	accuracy:0.785855	f-score:0.536170	precision:0.550218	recall:0.522822	mcc:0.397299	auc:0.695130	aupr:0.593003
+------------------------第53轮训练------------------------
+运行时间： 0.2582364082336426
+第24次训练的loss=0.4523559808731079
+运行时间： 0.4235873222351074
+第48次训练的loss=0.4331272542476654
+Epoch[53/60]	
+Train dataset	loss:20.61974	accuracy:0.814136	f-score:0.474074	precision:0.693767	recall:0.360056	mcc:0.404418	auc:0.655934	aupr:0.601355	
+Val dataset	loss:7.61804	accuracy:0.787819	f-score:0.538462	precision:0.555066	recall:0.522822	mcc:0.401169	auc:0.696417	aupr:0.595427
+------------------------第54轮训练------------------------
+运行时间： 0.20386385917663574
+第24次训练的loss=0.4824758768081665
+运行时间： 0.411487340927124
+第48次训练的loss=0.42690226435661316
+Epoch[54/60]	
+Train dataset	loss:20.69562	accuracy:0.807592	f-score:0.448405	precision:0.673239	recall:0.336146	mcc:0.378030	auc:0.643340	aupr:0.581918	
+Val dataset	loss:7.50588	accuracy:0.789784	f-score:0.511416	precision:0.568528	recall:0.464730	mcc:0.382342	auc:0.677668	aupr:0.579989
+------------------------第55轮训练------------------------
+运行时间： 0.1861870288848877
+第24次训练的loss=0.5312210321426392
+运行时间： 0.44079089164733887
+第48次训练的loss=0.4694589078426361
+Epoch[55/60]	
+Train dataset	loss:20.91739	accuracy:0.807919	f-score:0.444655	precision:0.679191	recall:0.330520	mcc:0.377620	auc:0.641593	aupr:0.582735	
+Val dataset	loss:7.60288	accuracy:0.789784	f-score:0.528634	precision:0.563380	recall:0.497925	mcc:0.395268	auc:0.689117	aupr:0.590083
+------------------------第56轮训练------------------------
+运行时间： 0.16846561431884766
+第24次训练的loss=0.5004149079322815
+运行时间： 0.3706095218658447
+第48次训练的loss=0.43010303378105164
+Epoch[56/60]	
+Train dataset	loss:20.59929	accuracy:0.817736	f-score:0.502234	precision:0.688725	recall:0.395218	mcc:0.423690	auc:0.670530	aupr:0.612325	
+Val dataset	loss:7.31407	accuracy:0.799607	f-score:0.507246	precision:0.606936	recall:0.435685	mcc:0.394055	auc:0.674084	aupr:0.588108
+save model56
+------------------------第57轮训练------------------------
+运行时间： 0.21353816986083984
+第24次训练的loss=0.4905727505683899
+运行时间： 0.4095926284790039
+第48次训练的loss=0.411131352186203
+Epoch[57/60]	
+Train dataset	loss:20.38262	accuracy:0.813809	f-score:0.481313	precision:0.683938	recall:0.371308	mcc:0.406099	auc:0.659641	aupr:0.600758	
+Val dataset	loss:7.57301	accuracy:0.788802	f-score:0.514673	precision:0.564356	recall:0.473029	mcc:0.383466	auc:0.679886	aupr:0.581070
+------------------------第58轮训练------------------------
+运行时间： 0.20738697052001953
+第24次训练的loss=0.54175865650177
+运行时间： 0.40488672256469727
+第48次训练的loss=0.4145718514919281
+Epoch[58/60]	
+Train dataset	loss:20.57689	accuracy:0.815445	f-score:0.477778	precision:0.699187	recall:0.362869	mcc:0.409172	auc:0.657767	aupr:0.605145	
+Val dataset	loss:7.35197	accuracy:0.795678	f-score:0.485149	precision:0.601227	recall:0.406639	mcc:0.374389	auc:0.661492	aupr:0.574169
+------------------------第59轮训练------------------------
+运行时间： 0.19611573219299316
+第24次训练的loss=0.5440236926078796
+运行时间： 0.4033379554748535
+第48次训练的loss=0.3719862997531891
+Epoch[59/60]	
+Train dataset	loss:20.42956	accuracy:0.817081	f-score:0.489498	precision:0.697917	recall:0.376934	mcc:0.417436	auc:0.663733	aupr:0.609906	
+Val dataset	loss:7.42791	accuracy:0.800589	f-score:0.526807	precision:0.601064	recall:0.468880	mcc:0.407904	auc:0.686177	aupr:0.597840
+save model59
+------------------------第60轮训练------------------------
+运行时间： 0.2526252269744873
+第24次训练的loss=0.5256897807121277
+运行时间： 0.4180104732513428
+第48次训练的loss=0.44665515422821045
+Epoch[60/60]	
+Train dataset	loss:20.12942	accuracy:0.818390	f-score:0.498645	precision:0.696970	recall:0.388186	mcc:0.423999	auc:0.668506	aupr:0.613749	
+Val dataset	loss:7.50744	accuracy:0.793713	f-score:0.533333	precision:0.574163	recall:0.497925	mcc:0.403463	auc:0.691691	aupr:0.595474

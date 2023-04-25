@@ -1,0 +1,385 @@
+2023-04-19 11:20:40 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/1conv4linear/mf1y108f/file_stream
+NoneType: None
+2023-04-19 11:21:10 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/1conv4linear/mf1y108f/file_stream
+NoneType: None
+2023-04-19 11:21:40 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/1conv4linear/mf1y108f/file_stream
+NoneType: None
+2023-04-19 11:21:55 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/1conv4linear/9luhacpj/file_stream
+NoneType: None
+2023-04-19 11:22:10 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/1conv4linear/mf1y108f/file_stream
+NoneType: None
+2023-04-19 11:22:29 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/1conv4linear/9luhacpj/file_stream
+NoneType: None
+2023-04-19 11:22:40 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/1conv4linear/mf1y108f/file_stream
+NoneType: None
+2023-04-19 15:24:23 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:23 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:24 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:24 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:27 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:27 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:27 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:28 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:28 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:28 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:28 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:28 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:29 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:29 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:29 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:29 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:29 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:29 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:30 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:30 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:30 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:30 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:31 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:31 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:31 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:31 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:31 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:31 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:32 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:32 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:34 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:34 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:34 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:35 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:40 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-19 15:24:41 WARNING Connection pool is full, discarding connection: storage.googleapis.com. Connection pool size: 10
+2023-04-23 20:27:18 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:27:19 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:27:22 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:27:26 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:27:35 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:28:04 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:28:39 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:28:40 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:28:42 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-23 20:28:42 INFO Retry attempt failed:
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connection.py", line 472, in connect
+    _match_hostname(cert, self.assert_hostname or server_hostname)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connection.py", line 545, in _match_hostname
+    match_hostname(cert, asserted_hostname)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/util/ssl_match_hostname.py", line 150, in match_hostname
+    raise CertificateError(
+urllib3.util.ssl_match_hostname.CertificateError: hostname 'api.wandb.ai' doesn't match either of '*.gxnu.edu.cn', 'gxnu.edu.cn'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by SSLError(CertificateError("hostname 'api.wandb.ai' doesn't match either of '*.gxnu.edu.cn', 'gxnu.edu.cn'")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/lib/retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 285, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/lib/gql_request.py", line 55, in execute
+    request = self.session.post(self.url, **post_args)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/sessions.py", line 635, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/adapters.py", line 563, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by SSLError(CertificateError("hostname 'api.wandb.ai' doesn't match either of '*.gxnu.edu.cn', 'gxnu.edu.cn'")))
+2023-04-23 20:31:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:31:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:32:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:32:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:33:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:33:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:34:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:34:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:35:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:35:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:36:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:36:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:37:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:37:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:38:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:38:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:39:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:39:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:40:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:40:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:41:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:41:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:42:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:42:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:43:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:43:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:44:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:44:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:45:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:45:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:46:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:46:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:47:27 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:47:57 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:48:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:49:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:49:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:50:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:50:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:51:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:51:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:52:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:52:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:53:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:53:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:54:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:54:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:55:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:55:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:56:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:56:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:57:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:57:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:58:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:58:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:59:20 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 20:59:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 20:59:50 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 20:59:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:00:20 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 21:00:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:00:50 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 21:00:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:01:20 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 21:01:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:01:50 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 21:01:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:02:20 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 21:02:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:02:50 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 21:02:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:03:20 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 21:03:28 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:03:50 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 21:03:58 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/fx76512k/file_stream
+NoneType: None
+2023-04-23 21:04:20 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/q7ssbb7e/file_stream
+NoneType: None
+2023-04-23 22:09:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:09:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:10:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:10:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:11:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:11:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:12:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:12:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:13:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:13:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:14:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:14:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:15:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:15:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:16:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:16:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:17:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:17:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:18:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:18:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:19:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:19:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:20:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:20:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:21:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:21:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:22:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:22:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:23:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:23:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:24:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:24:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:25:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:25:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:26:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:26:30 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:27:00 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/t0xn6500/file_stream
+NoneType: None
+2023-04-23 22:34:03 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/7vi7v4qy/file_stream
+NoneType: None
+2023-04-23 22:34:33 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/7vi7v4qy/file_stream
+NoneType: None
+2023-04-23 22:35:03 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/7vi7v4qy/file_stream
+NoneType: None
+2023-04-23 22:35:33 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/7vi7v4qy/file_stream
+NoneType: None
+2023-04-23 22:36:03 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/7vi7v4qy/file_stream
+NoneType: None
+2023-04-23 22:36:33 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/7vi7v4qy/file_stream
+NoneType: None
+2023-04-23 22:37:03 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/7vi7v4qy/file_stream
+NoneType: None
+2023-04-23 22:37:33 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/7vi7v4qy/file_stream
+NoneType: None
+2023-04-23 22:38:44 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-23 22:39:14 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-23 22:39:44 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-23 22:40:14 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-23 22:40:44 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-23 22:41:14 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-23 22:41:44 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-23 22:42:14 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-23 22:42:44 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/qvxh6lzf/file_stream
+NoneType: None
+2023-04-24 13:15:30 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-24 13:15:31 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-24 13:15:34 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-24 13:15:45 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-24 13:15:55 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-24 13:16:14 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-24 13:16:50 WARNING Certificate did not match expected hostname: api.wandb.ai. Certificate: {'subject': ((('countryName', 'CN'),), (('stateOrProvinceName', '广西壮族自治区'),), (('localityName', '桂林市'),), (('organizationName', '广西师范大学'),), (('commonName', '*.gxnu.edu.cn'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('commonName', 'DigiCert Basic RSA CN CA G2'),)), 'version': 3, 'serialNumber': '0D651F4B71D4B7FF03A95F1FA85A85AD', 'notBefore': 'Aug 26 00:00:00 2022 GMT', 'notAfter': 'Sep 26 23:59:59 2023 GMT', 'subjectAltName': (('DNS', '*.gxnu.edu.cn'), ('DNS', 'gxnu.edu.cn')), 'OCSP': ('http://ocsp.digicert.cn',), 'caIssuers': ('http://cacerts.digicert.cn/DigiCertBasicRSACNCAG2.crt',), 'crlDistributionPoints': ('http://crl.digicert.cn/DigiCertBasicRSACNCAG2.crl',)}
+2023-04-24 14:08:53 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/9occ444o/file_stream
+NoneType: None
+2023-04-24 14:09:23 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/9occ444o/file_stream
+NoneType: None
+2023-04-24 14:09:53 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/9occ444o/file_stream
+NoneType: None
+2023-04-24 14:10:23 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/9occ444o/file_stream
+NoneType: None
+2023-04-24 14:10:53 ERROR dropped chunk 404 Client Error: Not Found for url: https://api.wandb.ai/files/zzmaoyuqing/3conv2linear/9occ444o/file_stream
+NoneType: None

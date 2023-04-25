@@ -1,0 +1,25 @@
+2023-04-19 11:17:38,783 INFO    MainThread:4508 [wandb_setup.py:_flush():76] Configure stats pid to 4508
+2023-04-19 11:17:38,784 INFO    MainThread:4508 [wandb_setup.py:_flush():76] Loading settings from /root/.config/wandb/settings
+2023-04-19 11:17:38,784 INFO    MainThread:4508 [wandb_setup.py:_flush():76] Loading settings from /root/workspace/myq_206/server-master/wandb/settings
+2023-04-19 11:17:38,784 INFO    MainThread:4508 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-04-19 11:17:38,784 INFO    MainThread:4508 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-04-19 11:17:38,784 INFO    MainThread:4508 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'main.py', 'program': '/root/workspace/myq_206/server-master/main.py'}
+2023-04-19 11:17:38,784 INFO    MainThread:4508 [wandb_init.py:_log_setup():507] Logging user logs to /root/workspace/myq_206/server-master/wandb/run-20230419_111738-mf1y108f/logs/debug.log
+2023-04-19 11:17:38,785 INFO    MainThread:4508 [wandb_init.py:_log_setup():508] Logging internal logs to /root/workspace/myq_206/server-master/wandb/run-20230419_111738-mf1y108f/logs/debug-internal.log
+2023-04-19 11:17:38,785 INFO    MainThread:4508 [wandb_init.py:init():547] calling init triggers
+2023-04-19 11:17:38,785 INFO    MainThread:4508 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {'project_name': '1conv4linear', 'batch_size': 32, 'lr': 0.0005, 'epochs': 50}
+2023-04-19 11:17:38,786 INFO    MainThread:4508 [wandb_init.py:init():595] starting backend
+2023-04-19 11:17:38,786 INFO    MainThread:4508 [wandb_init.py:init():599] setting up manager
+2023-04-19 11:17:38,791 INFO    MainThread:4508 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-04-19 11:17:38,795 INFO    MainThread:4508 [wandb_init.py:init():605] backend started and connected
+2023-04-19 11:17:38,802 INFO    MainThread:4508 [wandb_init.py:init():695] updated telemetry
+2023-04-19 11:17:38,803 INFO    MainThread:4508 [wandb_init.py:init():732] communicating run to backend with 60.0 second timeout
+2023-04-19 11:17:39,776 INFO    MainThread:4508 [wandb_run.py:_on_init():2176] communicating current version
+2023-04-19 11:17:40,484 INFO    MainThread:4508 [wandb_run.py:_on_init():2185] got version response 
+2023-04-19 11:17:40,484 INFO    MainThread:4508 [wandb_init.py:init():782] starting run threads in backend
+2023-04-19 11:17:43,558 INFO    MainThread:4508 [wandb_run.py:_console_start():2157] atexit reg
+2023-04-19 11:17:43,559 INFO    MainThread:4508 [wandb_run.py:_redirect():2012] redirect: SettingsConsole.WRAP_RAW
+2023-04-19 11:17:43,559 INFO    MainThread:4508 [wandb_run.py:_redirect():2077] Wrapping output streams.
+2023-04-19 11:17:43,559 INFO    MainThread:4508 [wandb_run.py:_redirect():2102] Redirects installed.
+2023-04-19 11:17:43,560 INFO    MainThread:4508 [wandb_init.py:init():824] run started, returning control to user process

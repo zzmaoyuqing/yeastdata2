@@ -1,0 +1,152 @@
+2023-04-24 15:16:18,580 INFO    StreamThr :47803 [internal.py:wandb_internal():86] W&B internal server running at pid: 47803, started at: 2023-04-24 15:16:18.579833
+2023-04-24 15:16:18,583 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status
+2023-04-24 15:16:18,590 INFO    WriterThread:47803 [datastore.py:open_for_write():85] open: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/run-v9h98q9b.wandb
+2023-04-24 15:16:18,591 DEBUG   SenderThread:47803 [sender.py:send():375] send: header
+2023-04-24 15:16:18,591 DEBUG   SenderThread:47803 [sender.py:send():375] send: run
+2023-04-24 15:16:19,521 INFO    SenderThread:47803 [dir_watcher.py:__init__():219] watching files in: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files
+2023-04-24 15:16:19,522 INFO    SenderThread:47803 [sender.py:_start_run_threads():1124] run started: v9h98q9b with start time 1682320578.575071
+2023-04-24 15:16:19,522 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: summary_record
+2023-04-24 15:16:19,522 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: check_version
+2023-04-24 15:16:19,523 INFO    SenderThread:47803 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-24 15:16:19,523 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: check_version
+2023-04-24 15:16:20,232 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: run_start
+2023-04-24 15:16:20,239 DEBUG   HandlerThread:47803 [system_info.py:__init__():31] System info init
+2023-04-24 15:16:20,239 DEBUG   HandlerThread:47803 [system_info.py:__init__():46] System info init done
+2023-04-24 15:16:20,239 INFO    HandlerThread:47803 [system_monitor.py:start():181] Starting system monitor
+2023-04-24 15:16:20,240 INFO    SystemMonitor:47803 [system_monitor.py:_start():145] Starting system asset monitoring threads
+2023-04-24 15:16:20,240 INFO    HandlerThread:47803 [system_monitor.py:probe():201] Collecting system info
+2023-04-24 15:16:20,241 INFO    SystemMonitor:47803 [interfaces.py:start():190] Started cpu monitoring
+2023-04-24 15:16:20,242 INFO    SystemMonitor:47803 [interfaces.py:start():190] Started disk monitoring
+2023-04-24 15:16:20,243 INFO    SystemMonitor:47803 [interfaces.py:start():190] Started gpu monitoring
+2023-04-24 15:16:20,250 INFO    SystemMonitor:47803 [interfaces.py:start():190] Started memory monitoring
+2023-04-24 15:16:20,251 INFO    SystemMonitor:47803 [interfaces.py:start():190] Started network monitoring
+2023-04-24 15:16:20,355 DEBUG   HandlerThread:47803 [system_info.py:probe():195] Probing system
+2023-04-24 15:16:20,363 DEBUG   HandlerThread:47803 [git.py:repo():40] git repository is invalid
+2023-04-24 15:16:20,363 DEBUG   HandlerThread:47803 [system_info.py:probe():240] Probing system done
+2023-04-24 15:16:20,363 DEBUG   HandlerThread:47803 [system_monitor.py:probe():210] {'os': 'Linux-5.15.0-69-generic-x86_64-with-glibc2.10', 'python': '3.8.16', 'heartbeatAt': '2023-04-24T07:16:20.355357', 'startedAt': '2023-04-24T07:16:18.567320', 'docker': None, 'cuda': '10.0.130', 'args': (), 'state': 'running', 'program': '/root/workspace/myq_206/server-master/main.py', 'codePath': 'main.py', 'host': 'LAB_VM', 'username': 'root', 'executable': '/root/miniconda3/envs/myq_py38/bin/python', 'cpu_count': 56, 'cpu_count_logical': 112, 'cpu_freq': {'current': 2034.0816607142858, 'min': 800.0, 'max': 3100.0}, 'cpu_freq_per_core': [{'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 1136.787, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 3099.409, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 3100.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}, {'current': 2000.0, 'min': 800.0, 'max': 3100.0}], 'disk': {'total': 2635.7743530273438, 'used': 1689.087059020996}, 'gpu': 'NVIDIA A100-PCIE-40GB', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA A100-PCIE-40GB', 'memory_total': 42505273344}], 'memory': {'total': 503.47206115722656}}
+2023-04-24 15:16:20,363 INFO    HandlerThread:47803 [system_monitor.py:probe():211] Finished collecting system info
+2023-04-24 15:16:20,363 INFO    HandlerThread:47803 [system_monitor.py:probe():214] Publishing system info
+2023-04-24 15:16:20,363 DEBUG   HandlerThread:47803 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-04-24 15:16:20,364 DEBUG   HandlerThread:47803 [system_info.py:_save_pip():67] Saving pip packages done
+2023-04-24 15:16:20,364 DEBUG   HandlerThread:47803 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2023-04-24 15:16:20,527 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_created():278] file/dir created: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/conda-environment.yaml
+2023-04-24 15:16:20,528 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_created():278] file/dir created: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/requirements.txt
+2023-04-24 15:16:20,529 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_created():278] file/dir created: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/wandb-summary.json
+2023-04-24 15:16:23,079 DEBUG   HandlerThread:47803 [system_info.py:_save_conda():86] Saving conda packages done
+2023-04-24 15:16:23,083 INFO    HandlerThread:47803 [system_monitor.py:probe():216] Finished publishing system info
+2023-04-24 15:16:23,095 DEBUG   SenderThread:47803 [sender.py:send():375] send: files
+2023-04-24 15:16:23,096 INFO    SenderThread:47803 [sender.py:_save_file():1378] saving file wandb-metadata.json with policy now
+2023-04-24 15:16:23,113 DEBUG   SenderThread:47803 [sender.py:send():375] send: telemetry
+2023-04-24 15:16:23,115 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:16:23,117 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:16:23,529 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_modified():295] file/dir modified: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/conda-environment.yaml
+2023-04-24 15:16:23,530 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_created():278] file/dir created: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/output.log
+2023-04-24 15:16:23,530 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_created():278] file/dir created: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/wandb-metadata.json
+2023-04-24 15:16:23,652 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:16:24,184 INFO    wandb-upload_0:47803 [upload_job.py:push():137] Uploaded file /tmp/tmpgnojbrplwandb/b68bwj9z-wandb-metadata.json
+2023-04-24 15:16:25,531 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_modified():295] file/dir modified: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/output.log
+2023-04-24 15:16:27,532 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_modified():295] file/dir modified: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/output.log
+2023-04-24 15:16:29,197 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:16:34,198 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:16:38,109 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:16:38,111 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:16:39,391 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:16:44,393 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:16:49,399 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:16:50,544 INFO    Thread-12 :47803 [dir_watcher.py:_on_file_modified():295] file/dir modified: /root/workspace/myq_206/server-master/wandb/run-20230424_151618-v9h98q9b/files/config.yaml
+2023-04-24 15:16:53,109 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:16:53,111 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:16:55,399 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:00,400 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:05,401 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:08,110 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:17:08,111 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:17:11,393 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:16,394 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:20,252 DEBUG   SystemMonitor:47803 [system_monitor.py:_start():159] Starting system metrics aggregation loop
+2023-04-24 15:17:20,257 DEBUG   SenderThread:47803 [sender.py:send():375] send: stats
+2023-04-24 15:17:22,260 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:23,110 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:17:23,111 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:17:27,400 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:32,402 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:37,403 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:38,110 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:17:38,111 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:17:43,393 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:48,394 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:50,262 DEBUG   SenderThread:47803 [sender.py:send():375] send: stats
+2023-04-24 15:17:53,110 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:17:53,111 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:17:53,400 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:17:58,400 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:03,402 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:08,110 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:18:08,112 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:18:08,409 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:13,409 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:18,410 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:20,266 DEBUG   SenderThread:47803 [sender.py:send():375] send: stats
+2023-04-24 15:18:23,110 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:18:23,112 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:18:24,392 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:29,393 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:34,394 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:38,111 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:18:38,112 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:18:39,401 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:44,402 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:49,403 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:18:50,271 DEBUG   SenderThread:47803 [sender.py:send():375] send: stats
+2023-04-24 15:18:53,111 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:18:53,112 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:18:55,392 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:00,393 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:05,394 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:08,111 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:19:08,112 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:19:10,400 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:15,401 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:20,276 DEBUG   SenderThread:47803 [sender.py:send():375] send: stats
+2023-04-24 15:19:21,279 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:23,111 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:19:23,113 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:19:26,394 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:31,395 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:36,396 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:38,111 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:19:38,113 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:19:41,405 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:46,406 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:50,281 DEBUG   SenderThread:47803 [sender.py:send():375] send: stats
+2023-04-24 15:19:52,283 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:19:53,111 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:19:53,113 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:19:57,393 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:02,394 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:07,395 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:08,112 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:20:08,113 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:20:12,405 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:17,406 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:20,284 DEBUG   SenderThread:47803 [sender.py:send():375] send: stats
+2023-04-24 15:20:23,112 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:20:23,113 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:20:23,403 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:28,404 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:33,405 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:38,112 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:20:38,113 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:20:39,399 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:44,400 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:49,401 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:50,289 DEBUG   SenderThread:47803 [sender.py:send():375] send: stats
+2023-04-24 15:20:53,112 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:20:53,114 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:20:54,405 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:20:59,406 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:21:04,407 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:21:08,112 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-24 15:21:08,114 DEBUG   SenderThread:47803 [sender.py:send_request():402] send_request: stop_status
+2023-04-24 15:21:10,406 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report
+2023-04-24 15:21:15,407 DEBUG   HandlerThread:47803 [handler.py:handle_request():144] handle_request: status_report

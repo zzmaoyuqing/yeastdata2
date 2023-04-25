@@ -1,0 +1,61 @@
+
+------------------------第1轮训练------------------------
+运行时间： 5.876226186752319
+第24次训练的loss=0.4787066578865051
+运行时间： 6.088011980056763
+第48次训练的loss=0.5271227955818176
+运行时间： 6.2840094566345215
+第72次训练的loss=0.46953749656677246
+运行时间： 6.500523805618286
+第96次训练的loss=0.6013036370277405
+Epoch[1/50]	
+Train dataset	loss:51.64467	accuracy:0.765707	f-score:0.047872	precision:0.439024	recall:0.025316	mcc:0.056956	auc:0.507754	aupr:0.345554	
+Val dataset	loss:17.47748	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+save model1
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevconsole.py", line 364, in runcode
+    coro = func()
+  File "<input>", line 1, in <module>
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 38, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 33, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 252, in train
+    wandb.save(model, 'model_pytorch_test/model_{}.pth'.format(epoch + 1))
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 344, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 334, in wrapper
+    return func(self, *args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 1782, in save
+    return self._save(glob_str, base_path, policy)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 1797, in _save
+    raise ValueError("Must call wandb.save(glob_str) with glob_str a str")
+ValueError: Must call wandb.save(glob_str) with glob_str a str
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevconsole.py", line 364, in runcode
+    coro = func()
+  File "<input>", line 1, in <module>
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 38, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 33, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 252, in train
+    wandb.save(model, 'model_pytorch_test/model_{}.pth'.format(epoch + 1))
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 344, in wrapper_fn
+    return func(self, *args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 334, in wrapper
+    return func(self, *args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 1782, in save
+    return self._save(glob_str, base_path, policy)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_run.py", line 1797, in _save
+    raise ValueError("Must call wandb.save(glob_str) with glob_str a str")

@@ -1,0 +1,63 @@
+
+------------------------第1轮训练------------------------
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevconsole.py", line 364, in runcode
+    coro = func()
+  File "<input>", line 1, in <module>
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 38, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 33, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 244, in train
+    train_loss, train_acc, train_f1, train_pre, train_rec, train_mcc, train_auc, train_aupr = train_one_epoch(
+  File "/root/workspace/myq_206/server-master/model.py", line 163, in train_one_epoch
+    y_pred = model(X)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/workspace/myq_206/server-master/model.py", line 54, in forward
+    input = self.conv1(input)  # ([32, 32, 13, 13])  B,I,W,H
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 463, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 459, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
+RuntimeError: cuDNN error: CUDNN_STATUS_NOT_INITIALIZED
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevconsole.py", line 364, in runcode
+    coro = func()
+  File "<input>", line 1, in <module>
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 38, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 33, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 244, in train
+    train_loss, train_acc, train_f1, train_pre, train_rec, train_mcc, train_auc, train_aupr = train_one_epoch(
+  File "/root/workspace/myq_206/server-master/model.py", line 163, in train_one_epoch
+    y_pred = model(X)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/workspace/myq_206/server-master/model.py", line 54, in forward
+    input = self.conv1(input)  # ([32, 32, 13, 13])  B,I,W,H
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/container.py", line 217, in forward
+    input = module(input)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 463, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/conv.py", line 459, in _conv_forward
+    return F.conv2d(input, weight, bias, self.stride,
