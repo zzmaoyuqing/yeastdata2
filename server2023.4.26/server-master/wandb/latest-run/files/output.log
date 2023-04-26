@@ -1,0 +1,601 @@
+
+------------------------第1轮训练------------------------
+confusion matrix: [[ 78 163]
+ [ 32 209]]
+Epoch[1/100]	
+Train dataset	loss:15.76639	accuracy:0.533052	f-score:0.520924	precision:0.534815	recall:0.507736	mcc:0.066189	auc:0.533052	aupr:0.644341	
+Val dataset	loss:5.51998	accuracy:0.595436	f-score:0.681892	precision:0.561828	recall:0.867220	mcc:0.227400	auc:0.595436	aupr:0.747719
+------------------------第2轮训练------------------------
+confusion matrix: [[202  39]
+ [137 104]]
+Epoch[2/100]	
+Train dataset	loss:15.64556	accuracy:0.572433	f-score:0.622829	precision:0.557159	recall:0.706048	mcc:0.150334	auc:0.572433	aupr:0.705091	
+Val dataset	loss:5.46713	accuracy:0.634855	f-score:0.541667	precision:0.727273	recall:0.431535	mcc:0.295220	auc:0.634855	aupr:0.721520
+------------------------第3轮训练------------------------
+confusion matrix: [[199  42]
+ [137 104]]
+Epoch[3/100]	
+Train dataset	loss:15.43275	accuracy:0.586498	f-score:0.591667	precision:0.584362	recall:0.599156	mcc:0.173051	auc:0.586498	aupr:0.691970	
+Val dataset	loss:5.38512	accuracy:0.628631	f-score:0.537468	precision:0.712329	recall:0.431535	mcc:0.279928	auc:0.628631	aupr:0.714048
+------------------------第4轮训练------------------------
+confusion matrix: [[119 122]
+ [ 53 188]]
+Epoch[4/100]	
+Train dataset	loss:15.30474	accuracy:0.603376	f-score:0.614754	precision:0.597610	recall:0.632911	mcc:0.207113	auc:0.603376	aupr:0.707033	
+Val dataset	loss:5.38760	accuracy:0.636929	f-score:0.682396	precision:0.606452	recall:0.780083	mcc:0.285824	auc:0.636929	aupr:0.748247
+------------------------第5轮训练------------------------
+confusion matrix: [[148  93]
+ [ 71 170]]
+Epoch[5/100]	
+Train dataset	loss:15.29851	accuracy:0.609705	f-score:0.635588	precision:0.596059	recall:0.680731	mcc:0.221657	auc:0.609705	aupr:0.718212	
+Val dataset	loss:5.34479	accuracy:0.659751	f-score:0.674603	precision:0.646388	recall:0.705394	mcc:0.320842	auc:0.659751	aupr:0.749542
+------------------------第6轮训练------------------------
+confusion matrix: [[172  69]
+ [107 134]]
+Epoch[6/100]	
+Train dataset	loss:15.00590	accuracy:0.627286	f-score:0.640921	precision:0.618301	recall:0.665260	mcc:0.255308	auc:0.627286	aupr:0.725465	
+Val dataset	loss:5.28775	accuracy:0.634855	f-score:0.603604	precision:0.660099	recall:0.556017	mcc:0.273126	auc:0.634855	aupr:0.719053
+------------------------第7轮训练------------------------
+confusion matrix: [[188  53]
+ [118 123]]
+Epoch[7/100]	
+Train dataset	loss:14.94054	accuracy:0.630802	f-score:0.638679	precision:0.625337	recall:0.652602	mcc:0.261852	auc:0.630802	aupr:0.725819	
+Val dataset	loss:5.26659	accuracy:0.645228	f-score:0.589928	precision:0.698864	recall:0.510373	mcc:0.301634	auc:0.645228	aupr:0.727025
+------------------------第8轮训练------------------------
+confusion matrix: [[ 93 148]
+ [ 39 202]]
+Epoch[8/100]	
+Train dataset	loss:14.79972	accuracy:0.628692	f-score:0.633842	precision:0.625171	recall:0.642757	mcc:0.257486	auc:0.628692	aupr:0.723275	
+Val dataset	loss:5.30383	accuracy:0.612033	f-score:0.683587	precision:0.577143	recall:0.838174	mcc:0.251231	auc:0.612033	aupr:0.748115
+------------------------第9轮训练------------------------
+confusion matrix: [[184  57]
+ [112 129]]
+Epoch[9/100]	
+Train dataset	loss:14.77161	accuracy:0.637834	f-score:0.650847	precision:0.628272	recall:0.675105	mcc:0.276437	auc:0.637834	aupr:0.732912	
+Val dataset	loss:5.21969	accuracy:0.649378	f-score:0.604215	precision:0.693548	recall:0.535270	mcc:0.306853	auc:0.649378	aupr:0.730592
+------------------------第10轮训练------------------------
+confusion matrix: [[190  51]
+ [116 125]]
+Epoch[10/100]	
+Train dataset	loss:14.67691	accuracy:0.647679	f-score:0.646934	precision:0.648305	recall:0.645570	mcc:0.295361	auc:0.647679	aupr:0.735545	
+Val dataset	loss:5.20900	accuracy:0.653527	f-score:0.599520	precision:0.710227	recall:0.518672	mcc:0.318871	auc:0.653527	aupr:0.734782
+------------------------第11轮训练------------------------
+confusion matrix: [[169  72]
+ [ 98 143]]
+Epoch[11/100]	
+Train dataset	loss:14.90806	accuracy:0.642757	f-score:0.640227	precision:0.644793	recall:0.635724	mcc:0.285542	auc:0.642757	aupr:0.731328	
+Val dataset	loss:5.21239	accuracy:0.647303	f-score:0.627193	precision:0.665116	recall:0.593361	mcc:0.296335	auc:0.647303	aupr:0.730898
+------------------------第12轮训练------------------------
+confusion matrix: [[182  59]
+ [108 133]]
+Epoch[12/100]	
+Train dataset	loss:14.77576	accuracy:0.641350	f-score:0.646814	precision:0.637108	recall:0.656821	mcc:0.282836	auc:0.641350	aupr:0.732759	
+Val dataset	loss:5.18984	accuracy:0.653527	f-score:0.614319	precision:0.692708	recall:0.551867	mcc:0.313604	auc:0.653527	aupr:0.734321
+------------------------第13轮训练------------------------
+confusion matrix: [[188  53]
+ [111 130]]
+Epoch[13/100]	
+Train dataset	loss:14.72346	accuracy:0.646273	f-score:0.659445	precision:0.635770	recall:0.684951	mcc:0.293425	auc:0.646273	aupr:0.739123	
+Val dataset	loss:5.20081	accuracy:0.659751	f-score:0.613208	precision:0.710383	recall:0.539419	mcc:0.329177	auc:0.659751	aupr:0.740046
+------------------------第14轮训练------------------------
+confusion matrix: [[195  46]
+ [121 120]]
+Epoch[14/100]	
+Train dataset	loss:14.60357	accuracy:0.639241	f-score:0.643502	precision:0.635989	recall:0.651195	mcc:0.278561	auc:0.639241	aupr:0.730793	
+Val dataset	loss:5.15713	accuracy:0.653527	f-score:0.589681	precision:0.722892	recall:0.497925	mcc:0.323098	auc:0.653527	aupr:0.735927
+------------------------第15轮训练------------------------
+confusion matrix: [[174  67]
+ [100 141]]
+Epoch[15/100]	
+Train dataset	loss:14.55220	accuracy:0.649086	f-score:0.650315	precision:0.648045	recall:0.652602	mcc:0.298179	auc:0.649086	aupr:0.737173	
+Val dataset	loss:5.12990	accuracy:0.653527	f-score:0.628062	precision:0.677885	recall:0.585062	mcc:0.309974	auc:0.653527	aupr:0.735208
+------------------------第16轮训练------------------------
+confusion matrix: [[193  48]
+ [113 128]]
+Epoch[16/100]	
+Train dataset	loss:14.40107	accuracy:0.648383	f-score:0.656593	precision:0.641611	recall:0.672293	mcc:0.297105	auc:0.648383	aupr:0.738879	
+Val dataset	loss:5.15022	accuracy:0.665975	f-score:0.613909	precision:0.727273	recall:0.531120	mcc:0.344725	auc:0.665975	aupr:0.746416
+------------------------第17轮训练------------------------
+confusion matrix: [[177  64]
+ [102 139]]
+Epoch[17/100]	
+Train dataset	loss:14.45613	accuracy:0.653305	f-score:0.646088	precision:0.659824	recall:0.632911	mcc:0.306866	auc:0.653305	aupr:0.738140	
+Val dataset	loss:5.07505	accuracy:0.655602	f-score:0.626126	precision:0.684729	recall:0.576763	mcc:0.315146	auc:0.655602	aupr:0.736555
+------------------------第18轮训练------------------------
+confusion matrix: [[206  35]
+ [135 106]]
+Epoch[18/100]	
+Train dataset	loss:14.29997	accuracy:0.664557	f-score:0.672165	precision:0.657258	recall:0.687764	mcc:0.329469	auc:0.664557	aupr:0.750570	
+Val dataset	loss:5.17944	accuracy:0.647303	f-score:0.554974	precision:0.751773	recall:0.439834	mcc:0.323796	auc:0.647303	aupr:0.735845
+------------------------第19轮训练------------------------
+confusion matrix: [[189  52]
+ [107 134]]
+Epoch[19/100]	
+Train dataset	loss:14.56823	accuracy:0.650492	f-score:0.643728	precision:0.656433	recall:0.631505	mcc:0.301202	auc:0.650492	aupr:0.736093	
+Val dataset	loss:5.09413	accuracy:0.670124	f-score:0.627635	precision:0.720430	recall:0.556017	mcc:0.349471	auc:0.670124	aupr:0.749219
+------------------------第20轮训练------------------------
+confusion matrix: [[176  65]
+ [ 94 147]]
+Epoch[20/100]	
+Train dataset	loss:14.61521	accuracy:0.654008	f-score:0.660221	precision:0.648575	recall:0.672293	mcc:0.308223	auc:0.654008	aupr:0.742361	
+Val dataset	loss:5.05766	accuracy:0.670124	f-score:0.649007	precision:0.693396	recall:0.609959	mcc:0.342739	auc:0.670124	aupr:0.749188
+------------------------第21轮训练------------------------
+confusion matrix: [[165  76]
+ [ 82 159]]
+Epoch[21/100]	
+Train dataset	loss:14.49706	accuracy:0.656821	f-score:0.676821	precision:0.639549	recall:0.718706	mcc:0.316073	auc:0.656821	aupr:0.749451	
+Val dataset	loss:5.07435	accuracy:0.672199	f-score:0.668067	precision:0.676596	recall:0.659751	mcc:0.344505	auc:0.672199	aupr:0.753236
+------------------------第22轮训练------------------------
+confusion matrix: [[163  78]
+ [ 79 162]]
+Epoch[22/100]	
+Train dataset	loss:14.19898	accuracy:0.665260	f-score:0.663842	precision:0.666667	recall:0.661041	mcc:0.330532	auc:0.665260	aupr:0.748594	
+Val dataset	loss:5.01644	accuracy:0.674274	f-score:0.673597	precision:0.675000	recall:0.672199	mcc:0.348551	auc:0.674274	aupr:0.755550
+------------------------第23轮训练------------------------
+confusion matrix: [[165  76]
+ [ 77 164]]
+Epoch[23/100]	
+Train dataset	loss:14.15511	accuracy:0.657525	f-score:0.662976	precision:0.652589	recall:0.673699	mcc:0.315214	auc:0.657525	aupr:0.744719	
+Val dataset	loss:5.02145	accuracy:0.682573	f-score:0.681913	precision:0.683333	recall:0.680498	mcc:0.365148	auc:0.682573	aupr:0.761791
+------------------------第24轮训练------------------------
+confusion matrix: [[164  77]
+ [ 80 161]]
+Epoch[24/100]	
+Train dataset	loss:14.32957	accuracy:0.658931	f-score:0.662491	precision:0.655647	recall:0.669480	mcc:0.317933	auc:0.658931	aupr:0.745194	
+Val dataset	loss:4.94174	accuracy:0.674274	f-score:0.672234	precision:0.676471	recall:0.668050	mcc:0.348575	auc:0.674274	aupr:0.755248
+------------------------第25轮训练------------------------
+confusion matrix: [[155  86]
+ [ 68 173]]
+Epoch[25/100]	
+Train dataset	loss:14.16651	accuracy:0.661744	f-score:0.669870	precision:0.654155	recall:0.686357	mcc:0.323881	auc:0.661744	aupr:0.748667	
+Val dataset	loss:4.96797	accuracy:0.680498	f-score:0.692000	precision:0.667954	recall:0.717842	mcc:0.362007	auc:0.680498	aupr:0.763437
+------------------------第26轮训练------------------------
+confusion matrix: [[156  85]
+ [ 65 176]]
+Epoch[26/100]	
+Train dataset	loss:14.14877	accuracy:0.679325	f-score:0.678420	precision:0.680339	recall:0.676512	mcc:0.358655	auc:0.679325	aupr:0.759298	
+Val dataset	loss:4.95060	accuracy:0.688797	f-score:0.701195	precision:0.674330	recall:0.730290	mcc:0.378900	auc:0.688797	aupr:0.769737
+------------------------第27轮训练------------------------
+confusion matrix: [[190  51]
+ [ 99 142]]
+Epoch[27/100]	
+Train dataset	loss:14.30064	accuracy:0.649789	f-score:0.664420	precision:0.637775	recall:0.693390	mcc:0.300724	auc:0.649789	aupr:0.742235	
+Val dataset	loss:4.95675	accuracy:0.688797	f-score:0.654378	precision:0.735751	recall:0.589212	mcc:0.385313	auc:0.688797	aupr:0.765179
+------------------------第28轮训练------------------------
+confusion matrix: [[170  71]
+ [ 82 159]]
+Epoch[28/100]	
+Train dataset	loss:14.01212	accuracy:0.668776	f-score:0.672234	precision:0.665289	recall:0.679325	mcc:0.337628	auc:0.668776	aupr:0.752476	
+Val dataset	loss:4.96185	accuracy:0.682573	f-score:0.675159	precision:0.691304	recall:0.659751	mcc:0.365526	auc:0.682573	aupr:0.760590
+------------------------第29轮训练------------------------
+confusion matrix: [[186  55]
+ [ 91 150]]
+Epoch[29/100]	
+Train dataset	loss:13.90600	accuracy:0.681435	f-score:0.689087	precision:0.672922	recall:0.706048	mcc:0.363310	auc:0.681435	aupr:0.762973	
+Val dataset	loss:4.90926	accuracy:0.697095	f-score:0.672646	precision:0.731707	recall:0.622407	mcc:0.398664	auc:0.697095	aupr:0.771455
+------------------------第30轮训练------------------------
+confusion matrix: [[158  83]
+ [ 68 173]]
+Epoch[30/100]	
+Train dataset	loss:13.84194	accuracy:0.679325	f-score:0.673352	precision:0.686131	recall:0.661041	mcc:0.358890	auc:0.679325	aupr:0.758326	
+Val dataset	loss:4.85314	accuracy:0.686722	f-score:0.696177	precision:0.675781	recall:0.717842	mcc:0.374169	auc:0.686722	aupr:0.767351
+------------------------第31轮训练------------------------
+confusion matrix: [[167  74]
+ [ 71 170]]
+Epoch[31/100]	
+Train dataset	loss:13.82917	accuracy:0.684248	f-score:0.690131	precision:0.677507	recall:0.703235	mcc:0.368761	auc:0.684248	aupr:0.764562	
+Val dataset	loss:4.89723	accuracy:0.699170	f-score:0.701031	precision:0.696721	recall:0.705394	mcc:0.398371	auc:0.699170	aupr:0.774709
+------------------------第32轮训练------------------------
+confusion matrix: [[149  92]
+ [ 56 185]]
+Epoch[32/100]	
+Train dataset	loss:13.95351	accuracy:0.677918	f-score:0.687585	precision:0.667550	recall:0.708861	mcc:0.356520	auc:0.677918	aupr:0.760990	
+Val dataset	loss:4.87288	accuracy:0.692946	f-score:0.714286	precision:0.667870	recall:0.767635	mcc:0.390271	auc:0.692946	aupr:0.775844
+------------------------第33轮训练------------------------
+confusion matrix: [[154  87]
+ [ 61 180]]
+Epoch[33/100]	
+Train dataset	loss:13.96027	accuracy:0.677918	f-score:0.683702	precision:0.671642	recall:0.696203	mcc:0.356075	auc:0.677918	aupr:0.759872	
+Val dataset	loss:4.87765	accuracy:0.692946	f-score:0.708661	precision:0.674157	recall:0.746888	mcc:0.388158	auc:0.692946	aupr:0.773801
+------------------------第34轮训练------------------------
+confusion matrix: [[148  93]
+ [ 57 184]]
+Epoch[34/100]	
+Train dataset	loss:13.82138	accuracy:0.674402	f-score:0.670463	precision:0.678674	recall:0.662447	mcc:0.348904	auc:0.674402	aupr:0.754949	
+Val dataset	loss:4.84847	accuracy:0.688797	f-score:0.710425	precision:0.664260	recall:0.763485	mcc:0.381878	auc:0.688797	aupr:0.773001
+------------------------第35轮训练------------------------
+confusion matrix: [[173  68]
+ [ 79 162]]
+Epoch[35/100]	
+Train dataset	loss:13.81734	accuracy:0.692686	f-score:0.698413	precision:0.685637	recall:0.711674	mcc:0.385651	auc:0.692686	aupr:0.770737	
+Val dataset	loss:4.77581	accuracy:0.695021	f-score:0.687898	precision:0.704348	recall:0.672199	mcc:0.390448	auc:0.695021	aupr:0.770224
+------------------------第36轮训练------------------------
+confusion matrix: [[140 101]
+ [ 53 188]]
+Epoch[36/100]	
+Train dataset	loss:13.64248	accuracy:0.696203	f-score:0.689209	precision:0.705449	recall:0.673699	mcc:0.392803	auc:0.696203	aupr:0.771149	
+Val dataset	loss:4.85682	accuracy:0.680498	f-score:0.709434	precision:0.650519	recall:0.780083	mcc:0.368376	auc:0.680498	aupr:0.770280
+------------------------第37轮训练------------------------
+confusion matrix: [[173  68]
+ [ 76 165]]
+Epoch[37/100]	
+Train dataset	loss:13.56980	accuracy:0.689873	f-score:0.697323	precision:0.680965	recall:0.714487	mcc:0.380208	auc:0.689873	aupr:0.769104	
+Val dataset	loss:4.77740	accuracy:0.701245	f-score:0.696203	precision:0.708155	recall:0.684647	mcc:0.402712	auc:0.701245	aupr:0.775239
+------------------------第38轮训练------------------------
+confusion matrix: [[178  63]
+ [ 80 161]]
+Epoch[38/100]	
+Train dataset	loss:13.78008	accuracy:0.677918	f-score:0.677010	precision:0.678925	recall:0.675105	mcc:0.355842	auc:0.677918	aupr:0.758239	
+Val dataset	loss:4.83331	accuracy:0.703320	f-score:0.692473	precision:0.718750	recall:0.668050	mcc:0.407654	auc:0.703320	aupr:0.776387
+------------------------第39轮训练------------------------
+confusion matrix: [[161  80]
+ [ 67 174]]
+Epoch[39/100]	
+Train dataset	loss:13.58904	accuracy:0.701828	f-score:0.705146	precision:0.697387	recall:0.713080	mcc:0.403759	auc:0.701828	aupr:0.776963	
+Val dataset	loss:4.79390	accuracy:0.695021	f-score:0.703030	precision:0.685039	recall:0.721992	mcc:0.390610	auc:0.695021	aupr:0.773018
+------------------------第40轮训练------------------------
+confusion matrix: [[172  69]
+ [ 72 169]]
+Epoch[40/100]	
+Train dataset	loss:13.79106	accuracy:0.694796	f-score:0.696503	precision:0.692629	recall:0.700422	mcc:0.389617	auc:0.694796	aupr:0.771420	
+Val dataset	loss:4.77285	accuracy:0.707469	f-score:0.705637	precision:0.710084	recall:0.701245	mcc:0.414970	auc:0.707469	aupr:0.780353
+------------------------第41轮训练------------------------
+confusion matrix: [[162  79]
+ [ 64 177]]
+Epoch[41/100]	
+Train dataset	loss:13.65893	accuracy:0.691280	f-score:0.692792	precision:0.689415	recall:0.696203	mcc:0.382578	auc:0.691280	aupr:0.768758	
+Val dataset	loss:4.78096	accuracy:0.703320	f-score:0.712274	precision:0.691406	recall:0.734440	mcc:0.407429	auc:0.703320	aupr:0.779313
+------------------------第42轮训练------------------------
+confusion matrix: [[163  78]
+ [ 63 178]]
+Epoch[42/100]	
+Train dataset	loss:13.54456	accuracy:0.695499	f-score:0.700760	precision:0.688859	recall:0.713080	mcc:0.391241	auc:0.695499	aupr:0.772699	
+Val dataset	loss:4.74058	accuracy:0.707469	f-score:0.716298	precision:0.695312	recall:0.738589	mcc:0.415744	auc:0.707469	aupr:0.782304
+------------------------第43轮训练------------------------
+confusion matrix: [[183  58]
+ [ 77 164]]
+Epoch[43/100]	
+Train dataset	loss:13.51218	accuracy:0.690577	f-score:0.694444	precision:0.685871	recall:0.703235	mcc:0.381276	auc:0.690577	aupr:0.768744	
+Val dataset	loss:4.75681	accuracy:0.719917	f-score:0.708423	precision:0.738739	recall:0.680498	mcc:0.441207	auc:0.719917	aupr:0.789494
+------------------------第44轮训练------------------------
+confusion matrix: [[167  74]
+ [ 68 173]]
+Epoch[44/100]	
+Train dataset	loss:13.38857	accuracy:0.703235	f-score:0.700709	precision:0.706724	recall:0.694796	mcc:0.406528	auc:0.703235	aupr:0.777061	
+Val dataset	loss:4.70152	accuracy:0.705394	f-score:0.709016	precision:0.700405	recall:0.717842	mcc:0.410916	auc:0.705394	aupr:0.779663
+------------------------第45轮训练------------------------
+confusion matrix: [[150  91]
+ [ 58 183]]
+Epoch[45/100]	
+Train dataset	loss:13.19346	accuracy:0.713080	f-score:0.715481	precision:0.709544	recall:0.721519	mcc:0.426221	auc:0.713080	aupr:0.785152	
+Val dataset	loss:4.73829	accuracy:0.690871	f-score:0.710680	precision:0.667883	recall:0.759336	mcc:0.385373	auc:0.690871	aupr:0.773776
+------------------------第46轮训练------------------------
+confusion matrix: [[152  89]
+ [ 58 183]]
+Epoch[46/100]	
+Train dataset	loss:13.22933	accuracy:0.702532	f-score:0.703158	precision:0.701681	recall:0.704641	mcc:0.405067	auc:0.702532	aupr:0.777001	
+Val dataset	loss:4.76371	accuracy:0.695021	f-score:0.713450	precision:0.672794	recall:0.759336	mcc:0.393309	auc:0.695021	aupr:0.776231
+------------------------第47轮训练------------------------
+confusion matrix: [[190  51]
+ [ 86 155]]
+Epoch[47/100]	
+Train dataset	loss:13.58687	accuracy:0.698312	f-score:0.695529	precision:0.702006	recall:0.689170	mcc:0.396691	auc:0.698312	aupr:0.773295	
+Val dataset	loss:4.74381	accuracy:0.715768	f-score:0.693512	precision:0.752427	recall:0.643154	mcc:0.436159	auc:0.715768	aupr:0.787002
+------------------------第48轮训练------------------------
+confusion matrix: [[179  62]
+ [ 77 164]]
+Epoch[48/100]	
+Train dataset	loss:12.98020	accuracy:0.710970	f-score:0.711579	precision:0.710084	recall:0.713080	mcc:0.421945	auc:0.710970	aupr:0.783312	
+Val dataset	loss:4.68802	accuracy:0.711618	f-score:0.702355	precision:0.725664	recall:0.680498	mcc:0.424059	auc:0.711618	aupr:0.782956
+------------------------第49轮训练------------------------
+confusion matrix: [[176  65]
+ [ 69 172]]
+Epoch[49/100]	
+Train dataset	loss:13.38292	accuracy:0.699015	f-score:0.695590	precision:0.703597	recall:0.687764	mcc:0.398132	auc:0.699015	aupr:0.773739	
+Val dataset	loss:4.73654	accuracy:0.721992	f-score:0.719665	precision:0.725738	recall:0.713693	mcc:0.444045	auc:0.721992	aupr:0.791292
+------------------------第50轮训练------------------------
+confusion matrix: [[166  75]
+ [ 69 172]]
+Epoch[50/100]	
+Train dataset	loss:13.55005	accuracy:0.696203	f-score:0.687410	precision:0.707899	recall:0.668073	mcc:0.393028	auc:0.696203	aupr:0.770968	
+Val dataset	loss:4.71273	accuracy:0.701245	f-score:0.704918	precision:0.696356	recall:0.713693	mcc:0.402614	auc:0.701245	aupr:0.776601
+------------------------第51轮训练------------------------
+confusion matrix: [[185  56]
+ [ 78 163]]
+Epoch[51/100]	
+Train dataset	loss:13.42886	accuracy:0.705345	f-score:0.708826	precision:0.700549	recall:0.717300	mcc:0.410807	auc:0.705345	aupr:0.779600	
+Val dataset	loss:4.71229	accuracy:0.721992	f-score:0.708696	precision:0.744292	recall:0.676349	mcc:0.445845	auc:0.721992	aupr:0.791233
+------------------------第52轮训练------------------------
+confusion matrix: [[164  77]
+ [ 65 176]]
+Epoch[52/100]	
+Train dataset	loss:13.42747	accuracy:0.718003	f-score:0.717804	precision:0.718310	recall:0.717300	mcc:0.436006	auc:0.718003	aupr:0.788480	
+Val dataset	loss:4.64868	accuracy:0.705394	f-score:0.712551	precision:0.695652	recall:0.730290	mcc:0.411299	auc:0.705394	aupr:0.780399
+------------------------第53轮训练------------------------
+confusion matrix: [[157  84]
+ [ 61 180]]
+Epoch[53/100]	
+Train dataset	loss:12.98295	accuracy:0.703235	f-score:0.703235	precision:0.703235	recall:0.703235	mcc:0.406470	auc:0.703235	aupr:0.777426	
+Val dataset	loss:4.69660	accuracy:0.699170	f-score:0.712871	precision:0.681818	recall:0.746888	mcc:0.400167	auc:0.699170	aupr:0.777631
+------------------------第54轮训练------------------------
+confusion matrix: [[164  77]
+ [ 62 179]]
+Epoch[54/100]	
+Train dataset	loss:13.20789	accuracy:0.704641	f-score:0.702550	precision:0.707561	recall:0.697609	mcc:0.409323	auc:0.704641	aupr:0.778183	
+Val dataset	loss:4.67123	accuracy:0.711618	f-score:0.720322	precision:0.699219	recall:0.742739	mcc:0.424059	auc:0.711618	aupr:0.785294
+------------------------第55轮训练------------------------
+confusion matrix: [[162  79]
+ [ 63 178]]
+Epoch[55/100]	
+Train dataset	loss:13.39382	accuracy:0.709564	f-score:0.713791	precision:0.703552	recall:0.724332	mcc:0.419311	auc:0.709564	aupr:0.782859	
+Val dataset	loss:4.70595	accuracy:0.705394	f-score:0.714859	precision:0.692607	recall:0.738589	mcc:0.411697	auc:0.705394	aupr:0.780951
+------------------------第56轮训练------------------------
+confusion matrix: [[144  97]
+ [ 53 188]]
+Epoch[56/100]	
+Train dataset	loss:13.31771	accuracy:0.694796	f-score:0.679468	precision:0.715397	recall:0.646976	mcc:0.391386	auc:0.694796	aupr:0.769442	
+Val dataset	loss:4.77926	accuracy:0.688797	f-score:0.714829	precision:0.659649	recall:0.780083	mcc:0.384048	auc:0.688797	aupr:0.774845
+------------------------第57轮训练------------------------
+confusion matrix: [[168  73]
+ [ 68 173]]
+Epoch[57/100]	
+Train dataset	loss:13.21657	accuracy:0.709564	f-score:0.709360	precision:0.709859	recall:0.708861	mcc:0.419128	auc:0.709564	aupr:0.782145	
+Val dataset	loss:4.65553	accuracy:0.707469	f-score:0.710472	precision:0.703252	recall:0.717842	mcc:0.415027	auc:0.707469	aupr:0.781087
+------------------------第58轮训练------------------------
+confusion matrix: [[162  79]
+ [ 64 177]]
+Epoch[58/100]	
+Train dataset	loss:12.94684	accuracy:0.720816	f-score:0.716631	precision:0.727536	recall:0.706048	mcc:0.441824	auc:0.720816	aupr:0.790280	
+Val dataset	loss:4.65077	accuracy:0.703320	f-score:0.712274	precision:0.691406	recall:0.734440	mcc:0.407429	auc:0.703320	aupr:0.779313
+------------------------第59轮训练------------------------
+confusion matrix: [[137 104]
+ [ 54 187]]
+Epoch[59/100]	
+Train dataset	loss:12.98285	accuracy:0.713783	f-score:0.711143	precision:0.717765	recall:0.704641	mcc:0.427638	auc:0.713783	aupr:0.785043	
+Val dataset	loss:4.80084	accuracy:0.672199	f-score:0.703008	precision:0.642612	recall:0.775934	mcc:0.352059	auc:0.672199	aupr:0.765289
+------------------------第60轮训练------------------------
+confusion matrix: [[156  85]
+ [ 61 180]]
+Epoch[60/100]	
+Train dataset	loss:13.15305	accuracy:0.700422	f-score:0.700000	precision:0.700987	recall:0.699015	mcc:0.400845	auc:0.700422	aupr:0.775248	
+Val dataset	loss:4.67835	accuracy:0.697095	f-score:0.711462	precision:0.679245	recall:0.746888	mcc:0.396160	auc:0.697095	aupr:0.776345
+------------------------第61轮训练------------------------
+confusion matrix: [[179  62]
+ [ 73 168]]
+Epoch[61/100]	
+Train dataset	loss:13.04134	accuracy:0.713783	f-score:0.715584	precision:0.711111	recall:0.720113	mcc:0.427601	auc:0.713783	aupr:0.785584	
+Val dataset	loss:4.63022	accuracy:0.719917	f-score:0.713376	precision:0.730435	recall:0.697095	mcc:0.440293	auc:0.719917	aupr:0.789491
+------------------------第62轮训练------------------------
+confusion matrix: [[181  60]
+ [ 75 166]]
+Epoch[62/100]	
+Train dataset	loss:12.76683	accuracy:0.714487	f-score:0.708333	precision:0.723935	recall:0.693390	mcc:0.429356	auc:0.714487	aupr:0.785315	
+Val dataset	loss:4.61786	accuracy:0.719917	f-score:0.710921	precision:0.734513	recall:0.688797	mcc:0.440688	auc:0.719917	aupr:0.789456
+------------------------第63轮训练------------------------
+confusion matrix: [[177  64]
+ [ 71 170]]
+Epoch[63/100]	
+Train dataset	loss:12.80563	accuracy:0.721519	f-score:0.722300	precision:0.720280	recall:0.724332	mcc:0.443045	auc:0.721519	aupr:0.791223	
+Val dataset	loss:4.66876	accuracy:0.719917	f-score:0.715789	precision:0.726496	recall:0.705394	mcc:0.440020	auc:0.719917	aupr:0.789596
+------------------------第64轮训练------------------------
+confusion matrix: [[168  73]
+ [ 65 176]]
+Epoch[64/100]	
+Train dataset	loss:12.69044	accuracy:0.725738	f-score:0.721826	precision:0.732272	recall:0.711674	mcc:0.451656	auc:0.725738	aupr:0.794054	
+Val dataset	loss:4.69353	accuracy:0.713693	f-score:0.718367	precision:0.706827	recall:0.730290	mcc:0.427622	auc:0.713693	aupr:0.785986
+------------------------第65轮训练------------------------
+confusion matrix: [[174  67]
+ [ 66 175]]
+Epoch[65/100]	
+Train dataset	loss:12.86728	accuracy:0.714487	f-score:0.718447	precision:0.708618	recall:0.728551	mcc:0.429143	auc:0.714487	aupr:0.786447	
+Val dataset	loss:4.70256	accuracy:0.724066	f-score:0.724638	precision:0.723140	recall:0.726141	mcc:0.448137	auc:0.724066	aupr:0.793106
+------------------------第66轮训练------------------------
+confusion matrix: [[179  62]
+ [ 72 169]]
+Epoch[66/100]	
+Train dataset	loss:12.75046	accuracy:0.717300	f-score:0.716502	precision:0.718529	recall:0.714487	mcc:0.434606	auc:0.717300	aupr:0.787886	
+Val dataset	loss:4.59849	accuracy:0.721992	f-score:0.716102	precision:0.731602	recall:0.701245	mcc:0.444366	auc:0.721992	aupr:0.791112
+------------------------第67轮训练------------------------
+confusion matrix: [[182  59]
+ [ 75 166]]
+Epoch[67/100]	
+Train dataset	loss:12.83586	accuracy:0.718003	f-score:0.711718	precision:0.727941	recall:0.696203	mcc:0.436421	auc:0.718003	aupr:0.788021	
+Val dataset	loss:4.67191	accuracy:0.721992	f-score:0.712446	precision:0.737778	recall:0.688797	mcc:0.444965	auc:0.721992	aupr:0.791088
+------------------------第68轮训练------------------------
+confusion matrix: [[179  62]
+ [ 74 167]]
+Epoch[68/100]	
+Train dataset	loss:12.76422	accuracy:0.710970	f-score:0.700219	precision:0.727273	recall:0.675105	mcc:0.423031	auc:0.710970	aupr:0.782413	
+Val dataset	loss:4.65415	accuracy:0.717842	f-score:0.710638	precision:0.729258	recall:0.692946	mcc:0.436226	auc:0.717842	aupr:0.787865
+------------------------第69轮训练------------------------
+confusion matrix: [[178  63]
+ [ 77 164]]
+Epoch[69/100]	
+Train dataset	loss:12.63037	accuracy:0.724332	f-score:0.721986	precision:0.728183	recall:0.715893	mcc:0.448728	auc:0.724332	aupr:0.793065	
+Val dataset	loss:4.56861	accuracy:0.709544	f-score:0.700855	precision:0.722467	recall:0.680498	mcc:0.419796	auc:0.709544	aupr:0.781358
+------------------------第70轮训练------------------------
+confusion matrix: [[153  88]
+ [ 60 181]]
+Epoch[70/100]	
+Train dataset	loss:12.79357	accuracy:0.733474	f-score:0.727142	precision:0.744838	recall:0.710267	mcc:0.467452	auc:0.733474	aupr:0.799986	
+Val dataset	loss:4.75270	accuracy:0.692946	f-score:0.709804	precision:0.672862	recall:0.751037	mcc:0.388523	auc:0.692946	aupr:0.774191
+------------------------第71轮训练------------------------
+confusion matrix: [[170  71]
+ [ 67 174]]
+Epoch[71/100]	
+Train dataset	loss:12.60822	accuracy:0.726442	f-score:0.716265	precision:0.743939	recall:0.690577	mcc:0.454053	auc:0.726442	aupr:0.794614	
+Val dataset	loss:4.66720	accuracy:0.713693	f-score:0.716049	precision:0.710204	recall:0.721992	mcc:0.427445	auc:0.713693	aupr:0.785600
+------------------------第72轮训练------------------------
+confusion matrix: [[179  62]
+ [ 75 166]]
+Epoch[72/100]	
+Train dataset	loss:12.31414	accuracy:0.720816	f-score:0.726018	precision:0.712737	recall:0.739803	mcc:0.441950	auc:0.720816	aupr:0.791319	
+Val dataset	loss:4.70079	accuracy:0.715768	f-score:0.707889	precision:0.728070	recall:0.688797	mcc:0.432164	auc:0.715768	aupr:0.786234
+------------------------第73轮训练------------------------
+confusion matrix: [[168  73]
+ [ 66 175]]
+Epoch[73/100]	
+Train dataset	loss:12.17631	accuracy:0.739803	f-score:0.732272	precision:0.754098	recall:0.711674	mcc:0.480367	auc:0.739803	aupr:0.804968	
+Val dataset	loss:4.68923	accuracy:0.711618	f-score:0.715746	precision:0.705645	recall:0.726141	mcc:0.423415	auc:0.711618	aupr:0.784358
+------------------------第74轮训练------------------------
+confusion matrix: [[193  48]
+ [ 82 159]]
+Epoch[74/100]	
+Train dataset	loss:12.53280	accuracy:0.732068	f-score:0.723713	precision:0.747006	recall:0.701828	mcc:0.464986	auc:0.732068	aupr:0.798960	
+Val dataset	loss:4.75453	accuracy:0.730290	f-score:0.709821	precision:0.768116	recall:0.659751	mcc:0.465234	auc:0.730290	aupr:0.798996
+------------------------第75轮训练------------------------
+confusion matrix: [[172  69]
+ [ 74 167]]
+Epoch[75/100]	
+Train dataset	loss:12.57752	accuracy:0.712377	f-score:0.715775	precision:0.707418	recall:0.724332	mcc:0.424875	auc:0.712377	aupr:0.784792	
+Val dataset	loss:4.63505	accuracy:0.703320	f-score:0.700210	precision:0.707627	recall:0.692946	mcc:0.406727	auc:0.703320	aupr:0.777050
+------------------------第76轮训练------------------------
+confusion matrix: [[161  80]
+ [ 64 177]]
+Epoch[76/100]	
+Train dataset	loss:12.59355	accuracy:0.733474	f-score:0.731776	precision:0.736467	recall:0.727145	mcc:0.466985	auc:0.733474	aupr:0.800020	
+Val dataset	loss:4.67633	accuracy:0.701245	f-score:0.710843	precision:0.688716	recall:0.734440	mcc:0.403380	auc:0.701245	aupr:0.777968
+------------------------第77轮训练------------------------
+confusion matrix: [[170  71]
+ [ 71 170]]
+Epoch[77/100]	
+Train dataset	loss:12.45305	accuracy:0.733474	f-score:0.730633	precision:0.738506	recall:0.722925	mcc:0.467052	auc:0.733474	aupr:0.799984	
+Val dataset	loss:4.70825	accuracy:0.705394	f-score:0.705394	precision:0.705394	recall:0.705394	mcc:0.410788	auc:0.705394	aupr:0.779046
+------------------------第78轮训练------------------------
+confusion matrix: [[190  51]
+ [ 79 162]]
+Epoch[78/100]	
+Train dataset	loss:12.45671	accuracy:0.734880	f-score:0.729361	precision:0.744868	recall:0.714487	mcc:0.470152	auc:0.734880	aupr:0.801056	
+Val dataset	loss:4.60940	accuracy:0.730290	f-score:0.713656	precision:0.760563	recall:0.672199	mcc:0.463721	auc:0.730290	aupr:0.798331
+------------------------第79轮训练------------------------
+confusion matrix: [[198  43]
+ [ 86 155]]
+Epoch[79/100]	
+Train dataset	loss:12.42763	accuracy:0.729958	f-score:0.729196	precision:0.731259	recall:0.727145	mcc:0.459923	auc:0.729958	aupr:0.797416	
+Val dataset	loss:4.74562	accuracy:0.732365	f-score:0.706150	precision:0.782828	recall:0.643154	mcc:0.472309	auc:0.732365	aupr:0.802203
+------------------------第80轮训练------------------------
+confusion matrix: [[192  49]
+ [ 84 157]]
+Epoch[80/100]	
+Train dataset	loss:12.40279	accuracy:0.736287	f-score:0.730410	precision:0.747059	recall:0.714487	mcc:0.473024	auc:0.736287	aupr:0.802151	
+Val dataset	loss:4.66305	accuracy:0.724066	f-score:0.702461	precision:0.762136	recall:0.651452	mcc:0.452935	auc:0.724066	aupr:0.793931
+------------------------第81轮训练------------------------
+confusion matrix: [[188  53]
+ [ 84 157]]
+Epoch[81/100]	
+Train dataset	loss:11.96038	accuracy:0.748945	f-score:0.743719	precision:0.759531	recall:0.728551	mcc:0.498305	auc:0.748945	aupr:0.811903	
+Val dataset	loss:4.72820	accuracy:0.715768	f-score:0.696231	precision:0.747619	recall:0.651452	mcc:0.435150	auc:0.715768	aupr:0.786673
+------------------------第82轮训练------------------------
+confusion matrix: [[199  42]
+ [ 86 155]]
+Epoch[82/100]	
+Train dataset	loss:12.36543	accuracy:0.732771	f-score:0.730878	precision:0.736091	recall:0.725738	mcc:0.465588	auc:0.732771	aupr:0.799480	
+Val dataset	loss:4.61735	accuracy:0.734440	f-score:0.707763	precision:0.786802	recall:0.643154	mcc:0.476895	auc:0.734440	aupr:0.804189
+------------------------第83轮训练------------------------
+confusion matrix: [[203  38]
+ [ 93 148]]
+Epoch[83/100]	
+Train dataset	loss:12.02439	accuracy:0.741913	f-score:0.738418	precision:0.748555	recall:0.728551	mcc:0.483998	auc:0.741913	aupr:0.806415	
+Val dataset	loss:4.68342	accuracy:0.728216	f-score:0.693208	precision:0.795699	recall:0.614108	mcc:0.468803	auc:0.728216	aupr:0.801376
+------------------------第84轮训练------------------------
+confusion matrix: [[170  71]
+ [ 74 167]]
+Epoch[84/100]	
+Train dataset	loss:12.17254	accuracy:0.746132	f-score:0.739350	precision:0.759644	recall:0.720113	mcc:0.492932	auc:0.746132	aupr:0.809850	
+Val dataset	loss:4.74393	accuracy:0.699170	f-score:0.697286	precision:0.701681	recall:0.692946	mcc:0.398371	auc:0.699170	aupr:0.774077
+------------------------第85轮训练------------------------
+confusion matrix: [[190  51]
+ [ 86 155]]
+Epoch[85/100]	
+Train dataset	loss:11.93660	accuracy:0.746132	f-score:0.741219	precision:0.755848	recall:0.727145	mcc:0.492620	auc:0.746132	aupr:0.809710	
+Val dataset	loss:4.67662	accuracy:0.715768	f-score:0.693512	precision:0.752427	recall:0.643154	mcc:0.436159	auc:0.715768	aupr:0.787002
+------------------------第86轮训练------------------------
+confusion matrix: [[167  74]
+ [ 69 172]]
+Epoch[86/100]	
+Train dataset	loss:11.96750	accuracy:0.747539	f-score:0.736996	precision:0.769113	recall:0.707454	mcc:0.496676	auc:0.747539	aupr:0.811420	
+Val dataset	loss:4.71070	accuracy:0.703320	f-score:0.706366	precision:0.699187	recall:0.713693	mcc:0.406727	auc:0.703320	aupr:0.778017
+------------------------第87轮训练------------------------
+confusion matrix: [[170  71]
+ [ 70 171]]
+Epoch[87/100]	
+Train dataset	loss:12.05011	accuracy:0.727145	f-score:0.725212	precision:0.730385	recall:0.720113	mcc:0.454335	auc:0.727145	aupr:0.795221	
+Val dataset	loss:4.73635	accuracy:0.707469	f-score:0.708075	precision:0.706612	recall:0.709544	mcc:0.414941	auc:0.707469	aupr:0.780692
+------------------------第88轮训练------------------------
+confusion matrix: [[163  78]
+ [ 66 175]]
+Epoch[88/100]	
+Train dataset	loss:11.87939	accuracy:0.749648	f-score:0.741655	precision:0.766117	recall:0.718706	mcc:0.500256	auc:0.749648	aupr:0.812735	
+Val dataset	loss:4.81356	accuracy:0.701245	f-score:0.708502	precision:0.691700	recall:0.726141	mcc:0.402990	auc:0.701245	aupr:0.777385
+------------------------第89轮训练------------------------
+confusion matrix: [[173  68]
+ [ 78 163]]
+Epoch[89/100]	
+Train dataset	loss:11.92951	accuracy:0.757384	f-score:0.756184	precision:0.759943	recall:0.752461	mcc:0.514793	auc:0.757384	aupr:0.818087	
+Val dataset	loss:4.73117	accuracy:0.697095	f-score:0.690678	precision:0.705628	recall:0.676349	mcc:0.394531	auc:0.697095	aupr:0.771901
+------------------------第90轮训练------------------------
+confusion matrix: [[183  58]
+ [ 81 160]]
+Epoch[90/100]	
+Train dataset	loss:11.75553	accuracy:0.760900	f-score:0.755396	precision:0.773196	recall:0.738397	mcc:0.522330	auc:0.760900	aupr:0.821197	
+Val dataset	loss:4.69622	accuracy:0.711618	f-score:0.697168	precision:0.733945	recall:0.663900	mcc:0.425177	auc:0.711618	aupr:0.782948
+------------------------第91轮训练------------------------
+confusion matrix: [[159  82]
+ [ 66 175]]
+Epoch[91/100]	
+Train dataset	loss:11.92457	accuracy:0.745429	f-score:0.736919	precision:0.762406	recall:0.713080	mcc:0.491888	auc:0.745429	aupr:0.809473	
+Val dataset	loss:4.96294	accuracy:0.692946	f-score:0.702811	precision:0.680934	recall:0.726141	mcc:0.386745	auc:0.692946	aupr:0.772002
+------------------------第92轮训练------------------------
+confusion matrix: [[169  72]
+ [ 77 164]]
+Epoch[92/100]	
+Train dataset	loss:11.56138	accuracy:0.756681	f-score:0.751437	precision:0.767988	recall:0.735584	mcc:0.513819	auc:0.756681	aupr:0.817890	
+Val dataset	loss:4.83915	accuracy:0.690871	f-score:0.687631	precision:0.694915	recall:0.680498	mcc:0.381825	auc:0.690871	aupr:0.767582
+------------------------第93轮训练------------------------
+confusion matrix: [[167  74]
+ [ 77 164]]
+Epoch[93/100]	
+Train dataset	loss:11.65300	accuracy:0.759494	f-score:0.751453	precision:0.777444	recall:0.727145	mcc:0.520077	auc:0.759494	aupr:0.820508	
+Val dataset	loss:4.87565	accuracy:0.686722	f-score:0.684760	precision:0.689076	recall:0.680498	mcc:0.373473	auc:0.686722	aupr:0.764662
+------------------------第94轮训练------------------------
+confusion matrix: [[156  85]
+ [ 67 174]]
+Epoch[94/100]	
+Train dataset	loss:11.88881	accuracy:0.739100	f-score:0.732901	precision:0.750737	recall:0.715893	mcc:0.478716	auc:0.739100	aupr:0.804342	
+Val dataset	loss:4.91952	accuracy:0.684647	f-score:0.696000	precision:0.671815	recall:0.721992	mcc:0.370329	auc:0.684647	aupr:0.766405
+------------------------第95轮训练------------------------
+confusion matrix: [[156  85]
+ [ 66 175]]
+Epoch[95/100]	
+Train dataset	loss:11.55421	accuracy:0.751758	f-score:0.742524	precision:0.771212	recall:0.715893	mcc:0.504817	auc:0.751758	aupr:0.814579	
+Val dataset	loss:4.93910	accuracy:0.686722	f-score:0.698603	precision:0.673077	recall:0.726141	mcc:0.374610	auc:0.686722	aupr:0.768074
+------------------------第96轮训练------------------------
+confusion matrix: [[166  75]
+ [ 78 163]]
+Epoch[96/100]	
+Train dataset	loss:11.68777	accuracy:0.751055	f-score:0.746781	precision:0.759825	recall:0.734177	mcc:0.502396	auc:0.751055	aupr:0.813457	
+Val dataset	loss:4.95309	accuracy:0.682573	f-score:0.680585	precision:0.684874	recall:0.676349	mcc:0.365174	auc:0.682573	aupr:0.761524
+------------------------第97轮训练------------------------
+confusion matrix: [[170  71]
+ [ 79 162]]
+Epoch[97/100]	
+Train dataset	loss:11.71751	accuracy:0.765823	f-score:0.758170	precision:0.783784	recall:0.734177	mcc:0.532714	auc:0.765823	aupr:0.825436	
+Val dataset	loss:4.94969	accuracy:0.688797	f-score:0.683544	precision:0.695279	recall:0.672199	mcc:0.377802	auc:0.688797	aupr:0.765689
+------------------------第98轮训练------------------------
+confusion matrix: [[201  40]
+ [102 139]]
+Epoch[98/100]	
+Train dataset	loss:11.43761	accuracy:0.761603	f-score:0.761099	precision:0.762712	recall:0.759494	mcc:0.523211	auc:0.761603	aupr:0.821229	
+Val dataset	loss:4.97412	accuracy:0.705394	f-score:0.661905	precision:0.776536	recall:0.576763	mcc:0.425096	auc:0.705394	aupr:0.782459
+------------------------第99轮训练------------------------
+confusion matrix: [[169  72]
+ [ 76 165]]
+Epoch[99/100]	
+Train dataset	loss:11.65255	accuracy:0.744726	f-score:0.726451	precision:0.782468	recall:0.677918	mcc:0.493880	auc:0.744726	aupr:0.810713	
+Val dataset	loss:4.94525	accuracy:0.692946	f-score:0.690377	precision:0.696203	recall:0.684647	mcc:0.385945	auc:0.692946	aupr:0.769263
+------------------------第100轮训练------------------------
+confusion matrix: [[176  65]
+ [ 79 162]]
+Epoch[100/100]	
+Train dataset	loss:11.42298	accuracy:0.753868	f-score:0.743402	precision:0.776417	recall:0.713080	mcc:0.509433	auc:0.753868	aupr:0.816478	
+Val dataset	loss:4.89591	accuracy:0.701245	f-score:0.692308	precision:0.713656	recall:0.672199	mcc:0.403170	auc:0.701245	aupr:0.774878

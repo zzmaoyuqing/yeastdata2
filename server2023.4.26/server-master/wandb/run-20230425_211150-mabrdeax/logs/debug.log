@@ -1,0 +1,33 @@
+2023-04-25 21:11:50,082 INFO    MainThread:61600 [wandb_setup.py:_flush():76] Configure stats pid to 61600
+2023-04-25 21:11:50,083 INFO    MainThread:61600 [wandb_setup.py:_flush():76] Loading settings from /root/.config/wandb/settings
+2023-04-25 21:11:50,083 INFO    MainThread:61600 [wandb_setup.py:_flush():76] Loading settings from /root/workspace/myq_206/server-master/wandb/settings
+2023-04-25 21:11:50,083 INFO    MainThread:61600 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-04-25 21:11:50,083 INFO    MainThread:61600 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-04-25 21:11:50,083 INFO    MainThread:61600 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'main.py', 'program': '/root/workspace/myq_206/server-master/main.py'}
+2023-04-25 21:11:50,084 INFO    MainThread:61600 [wandb_init.py:_log_setup():507] Logging user logs to /root/workspace/myq_206/server-master/wandb/run-20230425_211150-mabrdeax/logs/debug.log
+2023-04-25 21:11:50,084 INFO    MainThread:61600 [wandb_init.py:_log_setup():508] Logging internal logs to /root/workspace/myq_206/server-master/wandb/run-20230425_211150-mabrdeax/logs/debug-internal.log
+2023-04-25 21:11:50,084 INFO    MainThread:61600 [wandb_init.py:init():547] calling init triggers
+2023-04-25 21:11:50,085 INFO    MainThread:61600 [wandb_init.py:init():554] wandb.init called with sweep_config: {}
+config: {'project_name': 'balanced_dataset', 'batch_size': 64, 'lr': 0.0005, 'epochs': 60, 'dropout': 0.5, 'weight_decay': 0.0005}
+2023-04-25 21:11:50,085 INFO    MainThread:61600 [wandb_init.py:init():595] starting backend
+2023-04-25 21:11:50,085 INFO    MainThread:61600 [wandb_init.py:init():599] setting up manager
+2023-04-25 21:11:50,090 INFO    MainThread:61600 [backend.py:_multiprocessing_setup():106] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2023-04-25 21:11:50,094 INFO    MainThread:61600 [wandb_init.py:init():605] backend started and connected
+2023-04-25 21:11:50,101 INFO    MainThread:61600 [wandb_init.py:init():695] updated telemetry
+2023-04-25 21:11:50,102 INFO    MainThread:61600 [wandb_init.py:init():732] communicating run to backend with 60.0 second timeout
+2023-04-25 21:11:51,189 INFO    MainThread:61600 [wandb_run.py:_on_init():2176] communicating current version
+2023-04-25 21:11:51,886 INFO    MainThread:61600 [wandb_run.py:_on_init():2185] got version response upgrade_message: "wandb version 0.15.0 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2023-04-25 21:11:51,887 INFO    MainThread:61600 [wandb_init.py:init():782] starting run threads in backend
+2023-04-25 21:11:54,883 INFO    MainThread:61600 [wandb_run.py:_console_start():2157] atexit reg
+2023-04-25 21:11:54,885 INFO    MainThread:61600 [wandb_run.py:_redirect():2012] redirect: SettingsConsole.WRAP_RAW
+2023-04-25 21:11:54,885 INFO    MainThread:61600 [wandb_run.py:_redirect():2077] Wrapping output streams.
+2023-04-25 21:11:54,885 INFO    MainThread:61600 [wandb_run.py:_redirect():2102] Redirects installed.
+2023-04-25 21:11:54,887 INFO    MainThread:61600 [wandb_init.py:init():824] run started, returning control to user process
+2023-04-25 21:12:07,559 INFO    MainThread:61600 [wandb_run.py:_finish():1892] finishing run zzmaoyuqing/balanced_dataset/mabrdeax
+2023-04-25 21:12:07,559 INFO    MainThread:61600 [wandb_run.py:_atexit_cleanup():2126] got exitcode: 0
+2023-04-25 21:12:07,560 INFO    MainThread:61600 [wandb_run.py:_restore():2109] restore
+2023-04-25 21:12:07,560 INFO    MainThread:61600 [wandb_run.py:_restore():2115] restore done
+2023-04-25 21:12:15,296 INFO    MainThread:61600 [wandb_run.py:_footer_history_summary_info():3476] rendering history
+2023-04-25 21:12:15,301 INFO    MainThread:61600 [wandb_run.py:_footer_history_summary_info():3508] rendering summary
+2023-04-25 21:12:15,310 INFO    MainThread:61600 [wandb_run.py:_footer_sync_info():3434] logging synced files

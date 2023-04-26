@@ -1,0 +1,53 @@
+------------------------第1轮训练------------------------
+运行时间： 1.96195387840271
+第24次训练的loss=0.4529436230659485
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevconsole.py", line 364, in runcode
+    coro = func()
+  File "<input>", line 1, in <module>
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 39, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 34, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 230, in train
+    torch.save(model, 'model_pytorch_test/model_{}.pth'.format(epoch + 1))
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/serialization.py", line 440, in save
+    with _open_zipfile_writer(f) as opened_zipfile:
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/serialization.py", line 315, in _open_zipfile_writer
+    return container(name_or_buffer)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/serialization.py", line 288, in __init__
+    super().__init__(torch._C.PyTorchFileWriter(str(name)))
+RuntimeError: Parent directory model_pytorch_test does not exist.
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevconsole.py", line 364, in runcode
+    coro = func()
+  File "<input>", line 1, in <module>
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 39, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 34, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 230, in train
+    torch.save(model, 'model_pytorch_test/model_{}.pth'.format(epoch + 1))
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/serialization.py", line 440, in save
+    with _open_zipfile_writer(f) as opened_zipfile:
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/serialization.py", line 315, in _open_zipfile_writer
+    return container(name_or_buffer)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/serialization.py", line 288, in __init__
+    super().__init__(torch._C.PyTorchFileWriter(str(name)))
+RuntimeError: Parent directory model_pytorch_test does not exist.
+运行时间： 2.0835390090942383
+第48次训练的loss=0.48964038491249084
+运行时间： 2.210756540298462
+第72次训练的loss=0.4986147880554199
+运行时间： 2.3465850353240967
+第96次训练的loss=0.5175833106040955
+Epoch[1/50]	
+Train dataset	loss:48.44437	accuracy:0.770288	f-score:0.085938	precision:0.578947	recall:0.046414	mcc:0.112989	auc:0.518089	aupr:0.423610	

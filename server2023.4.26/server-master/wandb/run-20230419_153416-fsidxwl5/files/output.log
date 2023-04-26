@@ -1,0 +1,17 @@
+
+------------------------第1轮训练------------------------
+运行时间： 2.989906072616577
+第24次训练的loss=0.6963370442390442
+运行时间： 3.179835796356201
+第48次训练的loss=0.5268825888633728
+Traceback (most recent call last):
+  File "/root/workspace/myq_206/server-master/main.py", line 39, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 34, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 178, in train
+    train_loss, train_acc, train_f1, train_pre, train_rec, train_mcc, train_auc, train_aupr = train_one_epoch(
+  File "/root/workspace/myq_206/server-master/model.py", line 127, in train_one_epoch
+    acc, f1, pre, rec, mcc, AUC, AUPR = compute_metrics(all_trues, all_scores)
+  File "/root/workspace/myq_206/server-master/model.py", line 74, in compute_metrics
+    p, r, _ = metrics.precision_recall_curve(all_trues, all_scores)

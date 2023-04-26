@@ -1,0 +1,19 @@
+
+------------------------第1轮训练------------------------
+运行时间： 2.774273157119751
+第24次训练的loss=0.662753164768219
+运行时间： 2.945230007171631
+第48次训练的loss=0.539584219455719
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Traceback (most recent call last):
+  File "/root/workspace/myq_206/server-master/main.py", line 39, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 34, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 178, in train
+    train_loss, train_acc, train_f1, train_pre, train_rec, train_mcc, train_auc, train_aupr = train_one_epoch(
+  File "/root/workspace/myq_206/server-master/model.py", line 127, in train_one_epoch
+    acc, f1, pre, rec, mcc, AUC, AUPR = compute_metrics(all_trues, all_scores)
+  File "/root/workspace/myq_206/server-master/model.py", line 74, in compute_metrics
+    p, r, _ = metrics.precision_recall_curve(all_trues, all_scores)

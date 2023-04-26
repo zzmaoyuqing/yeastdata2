@@ -1,0 +1,57 @@
+2023-04-25 21:10:49,201 INFO    StreamThr :60603 [internal.py:wandb_internal():86] W&B internal server running at pid: 60603, started at: 2023-04-25 21:10:49.200019
+2023-04-25 21:10:49,207 DEBUG   HandlerThread:60603 [handler.py:handle_request():144] handle_request: status
+2023-04-25 21:10:49,213 INFO    WriterThread:60603 [datastore.py:open_for_write():85] open: /root/workspace/myq_206/server-master/wandb/run-20230425_211049-ux6hq0cg/run-ux6hq0cg.wandb
+2023-04-25 21:10:49,214 DEBUG   SenderThread:60603 [sender.py:send():375] send: header
+2023-04-25 21:10:49,215 DEBUG   SenderThread:60603 [sender.py:send():375] send: run
+2023-04-25 21:10:52,805 INFO    SenderThread:60603 [retry.py:__call__():172] Retry attempt failed:
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connection.py", line 472, in connect
+    _match_hostname(cert, self.assert_hostname or server_hostname)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connection.py", line 545, in _match_hostname
+    match_hostname(cert, asserted_hostname)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/util/ssl_match_hostname.py", line 150, in match_hostname
+    raise CertificateError(
+urllib3.util.ssl_match_hostname.CertificateError: hostname 'api.wandb.ai' doesn't match either of '*.gxnu.edu.cn', 'gxnu.edu.cn'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/adapters.py", line 489, in send
+    resp = conn.urlopen(
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by SSLError(CertificateError("hostname 'api.wandb.ai' doesn't match either of '*.gxnu.edu.cn', 'gxnu.edu.cn'")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/lib/retry.py", line 131, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/internal/internal_api.py", line 285, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/lib/gql_request.py", line 55, in execute
+    request = self.session.post(self.url, **post_args)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/sessions.py", line 635, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/requests/adapters.py", line 563, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='api.wandb.ai', port=443): Max retries exceeded with url: /graphql (Caused by SSLError(CertificateError("hostname 'api.wandb.ai' doesn't match either of '*.gxnu.edu.cn', 'gxnu.edu.cn'")))
+2023-04-25 21:10:54,207 DEBUG   HandlerThread:60603 [handler.py:handle_request():144] handle_request: keepalive
+2023-04-25 21:10:59,209 DEBUG   HandlerThread:60603 [handler.py:handle_request():144] handle_request: keepalive
+2023-04-25 21:11:03,212 INFO    MainThread:60603 [internal.py:handle_exit():76] Internal process exited

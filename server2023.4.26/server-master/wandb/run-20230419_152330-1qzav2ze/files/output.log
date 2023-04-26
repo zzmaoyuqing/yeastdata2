@@ -1,0 +1,503 @@
+
+------------------------第1轮训练------------------------
+运行时间： 2.9862000942230225
+第24次训练的loss=0.662753164768219
+运行时间： 3.1450448036193848
+第48次训练的loss=0.539584219455719
+Epoch[1/50]	
+Train dataset	loss:27.80097	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:8.87029	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第1轮模型训练数据已保存
+------------------------第2轮训练------------------------
+运行时间： 0.1540515422821045
+第24次训练的loss=0.5617604851722717
+运行时间： 0.3166971206665039
+第48次训练的loss=0.5337949395179749
+Epoch[2/50]	
+Train dataset	loss:26.79653	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:8.83206	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第2轮模型训练数据已保存
+------------------------第3轮训练------------------------
+运行时间： 0.1481926441192627
+第24次训练的loss=0.5725148916244507
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.2910482883453369
+第48次训练的loss=0.5570014119148254
+Epoch[3/50]	
+Train dataset	loss:26.28695	accuracy:0.767016	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:-0.009962	auc:0.499787	aupr:0.116329	
+Val dataset	loss:8.52874	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第3轮模型训练数据已保存
+------------------------第4轮训练------------------------
+运行时间： 0.14757633209228516
+第24次训练的loss=0.5614772439002991
+运行时间： 0.3085322380065918
+第48次训练的loss=0.4876103103160858
+Epoch[4/50]	
+Train dataset	loss:24.99560	accuracy:0.767016	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:-0.009962	auc:0.499787	aupr:0.116329	
+Val dataset	loss:8.02024	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第4轮模型训练数据已保存
+------------------------第5轮训练------------------------
+运行时间： 0.18220043182373047
+第24次训练的loss=0.5212011337280273
+运行时间： 0.34586215019226074
+第48次训练的loss=0.4566524028778076
+Epoch[5/50]	
+Train dataset	loss:24.34111	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:7.71508	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第5轮模型训练数据已保存
+------------------------第6轮训练------------------------
+运行时间： 0.14317893981933594
+第24次训练的loss=0.4935935437679291
+运行时间： 0.31244349479675293
+第48次训练的loss=0.41534364223480225
+Epoch[6/50]	
+Train dataset	loss:23.83454	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:7.50109	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第6轮模型训练数据已保存
+------------------------第7轮训练------------------------
+运行时间： 0.11953520774841309
+第24次训练的loss=0.5481857061386108
+运行时间： 0.2755715847015381
+第48次训练的loss=0.45125612616539
+Epoch[7/50]	
+Train dataset	loss:23.40629	accuracy:0.767016	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:-0.009962	auc:0.499787	aupr:0.116329	
+Val dataset	loss:7.40741	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第7轮模型训练数据已保存
+------------------------第8轮训练------------------------
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.13319945335388184
+第24次训练的loss=0.5063982605934143
+运行时间： 0.3067624568939209
+第48次训练的loss=0.4315823018550873
+Epoch[8/50]	
+Train dataset	loss:23.12651	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:7.36188	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第8轮模型训练数据已保存
+------------------------第9轮训练------------------------
+运行时间： 0.16271567344665527
+第24次训练的loss=0.5609005093574524
+运行时间： 0.32643675804138184
+第48次训练的loss=0.46226462721824646
+Epoch[9/50]	
+Train dataset	loss:22.75277	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:7.33533	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第9轮模型训练数据已保存
+------------------------第10轮训练------------------------
+运行时间： 0.1624608039855957
+第24次训练的loss=0.4975182116031647
+运行时间： 0.32732725143432617
+第48次训练的loss=0.4485574960708618
+Epoch[10/50]	
+Train dataset	loss:23.16591	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:7.53659	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第10轮模型训练数据已保存
+------------------------第11轮训练------------------------
+运行时间： 0.14772510528564453
+第24次训练的loss=0.5175445675849915
+运行时间： 0.3155696392059326
+第48次训练的loss=0.44461897015571594
+Epoch[11/50]	
+Train dataset	loss:22.91557	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:7.38729	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第11轮模型训练数据已保存
+------------------------第12轮训练------------------------
+运行时间： 0.14943146705627441
+第24次训练的loss=0.4716947376728058
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.314363956451416
+第48次训练的loss=0.43710410594940186
+Epoch[12/50]	
+Train dataset	loss:22.40820	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:7.26930	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第12轮模型训练数据已保存
+------------------------第13轮训练------------------------
+运行时间： 0.14937615394592285
+第24次训练的loss=0.47837159037590027
+运行时间： 0.30868029594421387
+第48次训练的loss=0.4187874495983124
+Epoch[13/50]	
+Train dataset	loss:22.19879	accuracy:0.767343	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.616329	
+Val dataset	loss:7.16149	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第13轮模型训练数据已保存
+------------------------第14轮训练------------------------
+运行时间： 0.15012168884277344
+第24次训练的loss=0.4355282485485077
+运行时间： 0.3113288879394531
+第48次训练的loss=0.4349418580532074
+Epoch[14/50]	
+Train dataset	loss:21.81298	accuracy:0.767670	f-score:0.011142	precision:0.571429	recall:0.005626	mcc:0.038417	auc:0.502173	aupr:0.404201	
+Val dataset	loss:7.14005	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第14轮模型训练数据已保存
+------------------------第15轮训练------------------------
+运行时间： 0.15176606178283691
+第24次训练的loss=0.4694748520851135
+运行时间： 0.3270387649536133
+第48次训练的loss=0.38578394055366516
+Epoch[15/50]	
+Train dataset	loss:21.76232	accuracy:0.767343	f-score:0.030014	precision:0.500000	recall:0.015471	mcc:0.053879	auc:0.505390	aupr:0.372264	
+Val dataset	loss:7.10408	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第15轮模型训练数据已保存
+------------------------第16轮训练------------------------
+运行时间： 0.14789652824401855
+第24次训练的loss=0.4754101634025574
+运行时间： 0.3099935054779053
+第48次训练的loss=0.42495277523994446
+Epoch[16/50]	
+Train dataset	loss:21.71927	accuracy:0.776505	f-score:0.132147	precision:0.684211	recall:0.073136	mcc:0.170669	auc:0.531451	aupr:0.486494	
+Val dataset	loss:7.09110	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+第16轮模型训练数据已保存
+------------------------第17轮训练------------------------
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+运行时间： 0.14299869537353516
+第24次训练的loss=0.45911815762519836
+运行时间： 0.2984645366668701
+第48次训练的loss=0.43898653984069824
+Epoch[17/50]	
+Train dataset	loss:21.76152	accuracy:0.775851	f-score:0.189349	precision:0.597015	recall:0.112518	mcc:0.184666	auc:0.544745	aupr:0.458006	
+Val dataset	loss:7.14443	accuracy:0.764244	f-score:0.008264	precision:1.000000	recall:0.004149	mcc:0.056304	auc:0.502075	aupr:0.619953
+第17轮模型训练数据已保存
+------------------------第18轮训练------------------------
+运行时间： 0.1419973373413086
+第24次训练的loss=0.464010626077652
+运行时间： 0.2957139015197754
+第48次训练的loss=0.3859557807445526
+Epoch[18/50]	
+Train dataset	loss:21.24517	accuracy:0.778141	f-score:0.211628	precision:0.610738	recall:0.127989	mcc:0.202583	auc:0.551628	aupr:0.470803	
+Val dataset	loss:7.04609	accuracy:0.777014	f-score:0.130268	precision:0.850000	recall:0.070539	mcc:0.204232	auc:0.533339	aupr:0.570289
+第18轮模型训练数据已保存
+------------------------第19轮训练------------------------
+运行时间： 0.14343547821044922
+第24次训练的loss=0.45869264006614685
+运行时间： 0.2771906852722168
+第48次训练的loss=0.41400107741355896
+Epoch[19/50]	
+Train dataset	loss:21.46497	accuracy:0.775524	f-score:0.191038	precision:0.591241	recall:0.113924	mcc:0.183857	auc:0.545022	aupr:0.455658	
+Val dataset	loss:7.01980	accuracy:0.790766	f-score:0.257840	precision:0.804348	recall:0.153527	mcc:0.290485	auc:0.570972	aupr:0.579134
+第19轮模型训练数据已保存
+------------------------第20轮训练------------------------
+运行时间： 0.11795902252197266
+第24次训练的loss=0.4743918776512146
+运行时间： 0.2477402687072754
+第48次训练的loss=0.4222331941127777
+Epoch[20/50]	
+Train dataset	loss:21.42612	accuracy:0.781086	f-score:0.308170	precision:0.582031	recall:0.209564	mcc:0.250022	auc:0.581967	aupr:0.487748	
+Val dataset	loss:7.15167	accuracy:0.816306	f-score:0.509186	precision:0.692857	recall:0.402490	mcc:0.428473	auc:0.673574	aupr:0.618400
+第20轮模型训练数据已保存
+------------------------第21轮训练------------------------
+运行时间： 0.1596825122833252
+第24次训练的loss=0.4599682092666626
+运行时间： 0.3219470977783203
+第48次训练的loss=0.40427276492118835
+Epoch[21/50]	
+Train dataset	loss:20.67455	accuracy:0.789594	f-score:0.349848	precision:0.622302	recall:0.243319	mcc:0.291724	auc:0.599272	aupr:0.520834	
+Val dataset	loss:7.01498	accuracy:0.815324	f-score:0.522843	precision:0.673203	recall:0.427386	mcc:0.431832	auc:0.681518	aupr:0.618074
+第21轮模型训练数据已保存
+------------------------第22轮训练------------------------
+运行时间： 0.14595651626586914
+第24次训练的loss=0.4602430760860443
+运行时间： 0.31415319442749023
+第48次训练的loss=0.45271050930023193
+Epoch[22/50]	
+Train dataset	loss:21.05322	accuracy:0.772906	f-score:0.301811	precision:0.530035	recall:0.210970	mcc:0.224841	auc:0.577127	aupr:0.462290	
+Val dataset	loss:7.09872	accuracy:0.817289	f-score:0.520619	precision:0.687075	recall:0.419087	mcc:0.435226	auc:0.679943	aupr:0.621843
+第22轮模型训练数据已保存
+------------------------第23轮训练------------------------
+运行时间： 0.14517855644226074
+第24次训练的loss=0.42952945828437805
+运行时间： 0.30856919288635254
+第48次训练的loss=0.40594980120658875
+Epoch[23/50]	
+Train dataset	loss:20.59872	accuracy:0.788613	f-score:0.372816	precision:0.601881	recall:0.270042	mcc:0.298329	auc:0.607942	aupr:0.520876	
+Val dataset	loss:7.01191	accuracy:0.818271	f-score:0.568765	precision:0.648936	recall:0.506224	mcc:0.461502	auc:0.710641	aupr:0.636028
+第23轮模型训练数据已保存
+------------------------第24轮训练------------------------
+运行时间： 0.15740036964416504
+第24次训练的loss=0.4196015000343323
+运行时间： 0.33113908767700195
+第48次训练的loss=0.3984856605529785
+Epoch[24/50]	
+Train dataset	loss:20.16908	accuracy:0.783704	f-score:0.360116	precision:0.577640	recall:0.261603	mcc:0.280203	auc:0.601804	aupr:0.505518	
+Val dataset	loss:6.93027	accuracy:0.819253	f-score:0.535354	precision:0.683871	recall:0.439834	mcc:0.445785	auc:0.688385	aupr:0.628159
+第24轮模型训练数据已保存
+------------------------第25轮训练------------------------
+运行时间： 0.1512894630432129
+第24次训练的loss=0.5230275392532349
+运行时间： 0.317885160446167
+第48次训练的loss=0.3453543186187744
+Epoch[25/50]	
+Train dataset	loss:19.84032	accuracy:0.797120	f-score:0.428044	precision:0.621984	recall:0.326301	mcc:0.343562	auc:0.633087	aupr:0.552513	
+Val dataset	loss:6.93909	accuracy:0.814342	f-score:0.567506	precision:0.632653	recall:0.514523	mcc:0.454802	auc:0.710929	aupr:0.631054
+第25轮模型训练数据已保存
+------------------------第26轮训练------------------------
+运行时间： 0.14464521408081055
+第24次训练的loss=0.40022894740104675
+运行时间： 0.30988025665283203
+第48次训练的loss=0.45231327414512634
+Epoch[26/50]	
+Train dataset	loss:20.09521	accuracy:0.795812	f-score:0.431694	precision:0.612403	recall:0.333333	mcc:0.342233	auc:0.634684	aupr:0.550421	
+Val dataset	loss:7.03096	accuracy:0.820236	f-score:0.575406	precision:0.652632	recall:0.514523	mcc:0.468675	auc:0.714790	aupr:0.641043
+第26轮模型训练数据已保存
+------------------------第27轮训练------------------------
+运行时间： 0.1535189151763916
+第24次训练的loss=0.3900907635688782
+运行时间： 0.32134032249450684
+第48次训练的loss=0.38565123081207275
+Epoch[27/50]	
+Train dataset	loss:20.02764	accuracy:0.792212	f-score:0.429470	precision:0.594527	recall:0.336146	mcc:0.333321	auc:0.633318	aupr:0.542562	
+Val dataset	loss:6.92538	accuracy:0.820236	f-score:0.545906	precision:0.679012	recall:0.456432	mcc:0.452627	auc:0.694754	aupr:0.632064
+第27轮模型训练数据已保存
+------------------------第28轮训练------------------------
+运行时间： 0.14558696746826172
+第24次训练的loss=0.4418959617614746
+运行时间： 0.3067586421966553
+第48次训练的loss=0.37026455998420715
+Epoch[28/50]	
+Train dataset	loss:19.80990	accuracy:0.802356	f-score:0.455856	precision:0.634085	recall:0.355837	mcc:0.368168	auc:0.646788	aupr:0.569896	
+Val dataset	loss:6.95157	accuracy:0.822200	f-score:0.561743	precision:0.674419	recall:0.481328	mcc:0.464263	auc:0.704628	aupr:0.639268
+第28轮模型训练数据已保存
+------------------------第29轮训练------------------------
+运行时间： 0.14559650421142578
+第24次训练的loss=0.4336223900318146
+运行时间： 0.3157675266265869
+第48次训练的loss=0.45149242877960205
+Epoch[29/50]	
+Train dataset	loss:19.42896	accuracy:0.808901	f-score:0.506757	precision:0.634249	recall:0.421941	mcc:0.406725	auc:0.674083	aupr:0.595340	
+Val dataset	loss:7.03316	accuracy:0.803536	f-score:0.586777	precision:0.584362	recall:0.589212	mcc:0.457920	auc:0.729612	aupr:0.635412
+第29轮模型训练数据已保存
+------------------------第30轮训练------------------------
+运行时间： 0.14522552490234375
+第24次训练的loss=0.46267223358154297
+运行时间： 0.3180577754974365
+第48次训练的loss=0.3815681040287018
+Epoch[30/50]	
+Train dataset	loss:19.51575	accuracy:0.805955	f-score:0.498732	precision:0.625000	recall:0.414909	mcc:0.396860	auc:0.669714	aupr:0.588017	
+Val dataset	loss:7.00541	accuracy:0.804519	f-score:0.579281	precision:0.590517	recall:0.568465	mcc:0.452161	auc:0.723100	aupr:0.630572
+第30轮模型训练数据已保存
+------------------------第31轮训练------------------------
+运行时间： 0.15140891075134277
+第24次训练的loss=0.4208556115627289
+运行时间： 0.32753705978393555
+第48次训练的loss=0.3988837003707886
+Epoch[31/50]	
+Train dataset	loss:19.32863	accuracy:0.802683	f-score:0.498753	precision:0.609756	recall:0.421941	mcc:0.390954	auc:0.670032	aupr:0.583093	
+Val dataset	loss:6.95714	accuracy:0.819253	f-score:0.572093	precision:0.650794	recall:0.510373	mcc:0.465094	auc:0.712716	aupr:0.638540
+第31轮模型训练数据已保存
+------------------------第32轮训练------------------------
+运行时间： 0.14986205101013184
+第24次训练的loss=0.4349825084209442
+运行时间： 0.3300459384918213
+第48次训练的loss=0.3467257022857666
+Epoch[32/50]	
+Train dataset	loss:19.09336	accuracy:0.796793	f-score:0.481203	precision:0.592593	recall:0.405063	mcc:0.370445	auc:0.660314	aupr:0.568036	
+Val dataset	loss:6.95459	accuracy:0.822200	f-score:0.568019	precision:0.668539	recall:0.493776	mcc:0.467608	auc:0.708921	aupr:0.641079
+第32轮模型训练数据已保存
+------------------------第33轮训练------------------------
+运行时间： 0.14602446556091309
+第24次训练的loss=0.4455356001853943
+运行时间： 0.3269078731536865
+第48次训练的loss=0.4058074951171875
+Epoch[33/50]	
+Train dataset	loss:19.05455	accuracy:0.806283	f-score:0.498305	precision:0.626866	recall:0.413502	mcc:0.397248	auc:0.669438	aupr:0.588410	
+Val dataset	loss:7.06448	accuracy:0.806483	f-score:0.600406	precision:0.587302	recall:0.614108	mcc:0.473021	auc:0.740130	aupr:0.646383
+第33轮模型训练数据已保存
+------------------------第34轮训练------------------------
+运行时间： 0.15180468559265137
+第24次训练的loss=0.3776600658893585
+运行时间： 0.3115701675415039
+第48次训练的loss=0.4060875177383423
+Epoch[34/50]	
+Train dataset	loss:18.95017	accuracy:0.803992	f-score:0.481385	precision:0.626126	recall:0.390999	mcc:0.383939	auc:0.660105	aupr:0.579407	
+Val dataset	loss:6.96966	accuracy:0.818271	f-score:0.554217	precision:0.660920	recall:0.477178	mcc:0.453089	auc:0.700623	aupr:0.630935
+第34轮模型训练数据已保存
+------------------------第35轮训练------------------------
+运行时间： 0.15468859672546387
+第24次训练的loss=0.41097941994667053
+运行时间： 0.32808995246887207
+第48次训练的loss=0.3895103931427002
+Epoch[35/50]	
+Train dataset	loss:18.61424	accuracy:0.814136	f-score:0.530579	precision:0.643287	recall:0.451477	mcc:0.429321	auc:0.687785	aupr:0.611191	
+Val dataset	loss:6.99040	accuracy:0.815324	f-score:0.585903	precision:0.624413	recall:0.551867	mcc:0.469124	auc:0.724454	aupr:0.641185
+第35轮模型训练数据已保存
+------------------------第36轮训练------------------------
+运行时间： 0.15301060676574707
+第24次训练的loss=0.3821259140968323
+运行时间： 0.3284332752227783
+第48次训练的loss=0.3719022572040558
+Epoch[36/50]	
+Train dataset	loss:18.45284	accuracy:0.802683	f-score:0.499585	precision:0.609312	recall:0.423347	mcc:0.391439	auc:0.670522	aupr:0.583411	
+Val dataset	loss:7.00881	accuracy:0.816306	f-score:0.577878	precision:0.633663	recall:0.531120	mcc:0.464587	auc:0.717941	aupr:0.637893
+第36轮模型训练数据已保存
+------------------------第37轮训练------------------------
+运行时间： 0.15035676956176758
+第24次训练的loss=0.3857933282852173
+运行时间： 0.3271193504333496
+第48次训练的loss=0.3808976709842682
+Epoch[37/50]	
+Train dataset	loss:18.11537	accuracy:0.827225	f-score:0.572123	precision:0.674952	recall:0.496484	mcc:0.475656	auc:0.711995	aupr:0.644291	
+Val dataset	loss:7.09249	accuracy:0.811395	f-score:0.573333	precision:0.617225	recall:0.535270	mcc:0.454953	auc:0.716155	aupr:0.631257
+第37轮模型训练数据已保存
+------------------------第38轮训练------------------------
+运行时间： 0.15586280822753906
+第24次训练的loss=0.3369031250476837
+运行时间： 0.32152605056762695
+第48次训练的loss=0.3973178565502167
+Epoch[38/50]	
+Train dataset	loss:18.68812	accuracy:0.820353	f-score:0.548148	precision:0.660714	recall:0.468354	mcc:0.450219	auc:0.697717	aupr:0.626380	
+Val dataset	loss:7.08891	accuracy:0.795678	f-score:0.577236	precision:0.565737	recall:0.589212	mcc:0.442753	auc:0.724464	aupr:0.626099
+第38轮模型训练数据已保存
+------------------------第39轮训练------------------------
+运行时间： 0.15177011489868164
+第24次训练的loss=0.380098819732666
+运行时间： 0.32660341262817383
+第48次训练的loss=0.3811149597167969
+Epoch[39/50]	
+Train dataset	loss:18.48333	accuracy:0.815118	f-score:0.547638	precision:0.635688	recall:0.481013	mcc:0.440909	auc:0.698715	aupr:0.618723	
+Val dataset	loss:7.06533	accuracy:0.807466	f-score:0.573913	precision:0.602740	recall:0.547718	mcc:0.450775	auc:0.717874	aupr:0.628765
+第39轮模型训练数据已保存
+------------------------第40轮训练------------------------
+运行时间： 0.15181446075439453
+第24次训练的loss=0.3557853102684021
+运行时间： 0.3208436965942383
+第48次训练的loss=0.36934077739715576
+Epoch[40/50]	
+Train dataset	loss:18.15182	accuracy:0.814463	f-score:0.532564	precision:0.643426	recall:0.454290	mcc:0.431009	auc:0.688979	aupr:0.612340	
+Val dataset	loss:7.10976	accuracy:0.794695	f-score:0.581162	precision:0.562016	recall:0.601660	mcc:0.445846	auc:0.728114	aupr:0.628989
+第40轮模型训练数据已保存
+------------------------第41轮训练------------------------
+运行时间： 0.1517331600189209
+第24次训练的loss=0.33020198345184326
+运行时间： 0.3218560218811035
+第48次训练的loss=0.3606986105442047
+Epoch[41/50]	
+Train dataset	loss:17.99560	accuracy:0.814791	f-score:0.529900	precision:0.647059	recall:0.448664	mcc:0.430148	auc:0.687232	aupr:0.611997	
+Val dataset	loss:7.14406	accuracy:0.805501	f-score:0.585774	precision:0.590717	recall:0.580913	mcc:0.458727	auc:0.728037	aupr:0.635422
+第41轮模型训练数据已保存
+------------------------第42轮训练------------------------
+运行时间： 0.14872360229492188
+第24次训练的loss=0.4148402512073517
+运行时间： 0.31792116165161133
+第48次训练的loss=0.38297346234321594
+Epoch[42/50]	
+Train dataset	loss:17.98872	accuracy:0.833442	f-score:0.600157	precision:0.679715	recall:0.537271	mcc:0.502263	auc:0.730256	aupr:0.662322	
+Val dataset	loss:7.31576	accuracy:0.814342	f-score:0.553191	precision:0.642857	recall:0.485477	mcc:0.445773	auc:0.700911	aupr:0.625071
+第42轮模型训练数据已保存
+------------------------第43轮训练------------------------
+运行时间： 0.14971470832824707
+第24次训练的loss=0.34589681029319763
+运行时间： 0.312053918838501
+第48次训练的loss=0.3809690773487091
+Epoch[43/50]	
+Train dataset	loss:18.04008	accuracy:0.824935	f-score:0.580392	precision:0.656028	recall:0.520394	mcc:0.476688	auc:0.718832	aupr:0.644003	
+Val dataset	loss:7.14979	accuracy:0.789784	f-score:0.580392	precision:0.550186	recall:0.614108	mcc:0.441904	auc:0.729190	aupr:0.627825
+第43轮模型训练数据已保存
+------------------------第44轮训练------------------------
+运行时间： 0.1521000862121582
+第24次训练的loss=0.3764311373233795
+运行时间： 0.3212563991546631
+第48次训练的loss=0.3413707911968231
+Epoch[44/50]	
+Train dataset	loss:17.65118	accuracy:0.827880	f-score:0.589063	precision:0.662566	recall:0.530239	mcc:0.486678	auc:0.724181	aupr:0.651049	
+Val dataset	loss:7.12086	accuracy:0.802554	f-score:0.571429	precision:0.587719	recall:0.556017	mcc:0.443574	auc:0.717519	aupr:0.624422
+第44轮模型训练数据已保存
+------------------------第45轮训练------------------------
+运行时间： 0.15124225616455078
+第24次训练的loss=0.36893609166145325
+运行时间： 0.3205091953277588
+第48次训练的loss=0.3519631326198578
+Epoch[45/50]	
+Train dataset	loss:17.13763	accuracy:0.829843	f-score:0.579968	precision:0.681214	recall:0.504923	mcc:0.484614	auc:0.716640	aupr:0.650660	
+Val dataset	loss:7.19747	accuracy:0.788802	f-score:0.574257	precision:0.549242	recall:0.601660	mcc:0.435011	auc:0.724253	aupr:0.622602
+第45轮模型训练数据已保存
+------------------------第46轮训练------------------------
+运行时间： 0.15236115455627441
+第24次训练的loss=0.31791916489601135
+运行时间： 0.3224599361419678
+第48次训练的loss=0.4015635550022125
+Epoch[46/50]	
+Train dataset	loss:17.25319	accuracy:0.834424	f-score:0.614916	precision:0.669983	recall:0.568214	mcc:0.513172	auc:0.741676	aupr:0.669328	
+Val dataset	loss:7.27041	accuracy:0.798625	f-score:0.570231	precision:0.576271	recall:0.564315	mcc:0.438796	auc:0.717808	aupr:0.621865
+第46轮模型训练数据已保存
+------------------------第47轮训练------------------------
+运行时间： 0.14781403541564941
+第24次训练的loss=0.39083805680274963
+运行时间： 0.30077695846557617
+第48次训练的loss=0.4025552570819855
+Epoch[47/50]	
+Train dataset	loss:17.00609	accuracy:0.829843	f-score:0.591837	precision:0.669627	recall:0.530239	mcc:0.491464	auc:0.725461	aupr:0.654580	
+Val dataset	loss:7.31561	accuracy:0.801572	f-score:0.558952	precision:0.589862	recall:0.531120	mcc:0.432383	auc:0.708289	aupr:0.615992
+第47轮模型训练数据已保存
+------------------------第48轮训练------------------------
+运行时间： 0.1455976963043213
+第24次训练的loss=0.38805073499679565
+运行时间： 0.2966115474700928
+第48次训练的loss=0.39483678340911865
+Epoch[48/50]	
+Train dataset	loss:17.17819	accuracy:0.832461	f-score:0.606154	precision:0.668930	recall:0.554149	mcc:0.504521	auc:0.735497	aupr:0.663405	
+Val dataset	loss:7.33741	accuracy:0.805501	f-score:0.567686	precision:0.599078	recall:0.539419	mcc:0.443668	auc:0.713725	aupr:0.623767
+第48轮模型训练数据已保存
+------------------------第49轮训练------------------------
+运行时间： 0.14564990997314453
+第24次训练的loss=0.326846718788147
+运行时间： 0.2999136447906494
+第48次训练的loss=0.3587613105773926
+Epoch[49/50]	
+Train dataset	loss:17.18573	accuracy:0.831806	f-score:0.597809	precision:0.673721	recall:0.537271	mcc:0.498228	auc:0.729190	aupr:0.659325	
+Val dataset	loss:7.20265	accuracy:0.793713	f-score:0.566116	precision:0.563786	recall:0.568465	mcc:0.430816	auc:0.716021	aupr:0.617206
+第49轮模型训练数据已保存
+------------------------第50轮训练------------------------
+运行时间： 0.14588522911071777
+第24次训练的loss=0.33109867572784424
+运行时间： 0.29712653160095215
+第48次训练的loss=0.35109850764274597
+Epoch[50/50]	
+Train dataset	loss:16.53387	accuracy:0.835079	f-score:0.614089	precision:0.673950	recall:0.563994	mcc:0.513542	auc:0.740633	aupr:0.669692	
+Val dataset	loss:7.32127	accuracy:0.793713	f-score:0.558824	precision:0.565957	recall:0.551867	mcc:0.424293	auc:0.710297	aupr:0.611958
+第50轮模型训练数据已保存

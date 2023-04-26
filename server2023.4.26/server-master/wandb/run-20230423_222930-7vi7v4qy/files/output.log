@@ -1,0 +1,29 @@
+
+------------------------第1轮训练------------------------
+运行时间： 5.826845407485962
+第24次训练的loss=0.4787064492702484
+运行时间： 6.048170566558838
+第48次训练的loss=0.527918815612793
+运行时间： 6.309653043746948
+第72次训练的loss=0.4758816063404083
+运行时间： 6.547569513320923
+第96次训练的loss=0.5987321734428406
+Epoch[1/50]	
+Train dataset	loss:51.64845	accuracy:0.766361	f-score:0.050532	precision:0.463415	recall:0.026723	mcc:0.063687	auc:0.508671	aupr:0.358289	
+Val dataset	loss:17.60209	accuracy:0.763261	f-score:0.000000	precision:0.000000	recall:0.000000	mcc:0.000000	auc:0.500000	aupr:0.618369
+save model1
+/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision is ill-defined and being set to 0.0 due to no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevd.py", line 1496, in _exec
+    pydev_imports.execfile(file, globals, locals)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 38, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 33, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 253, in train
+    art.add_file("saved_model_weights.pth")
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/wandb/sdk/wandb_artifacts.py", line 406, in add_file
+    raise ValueError("Path is not a file: %s" % local_path)

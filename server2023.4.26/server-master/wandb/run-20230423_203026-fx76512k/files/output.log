@@ -1,0 +1,31 @@
+
+------------------------第1轮训练------------------------
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevconsole.py", line 364, in runcode
+    coro = func()
+  File "<input>", line 1, in <module>
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 38, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 33, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 183, in train
+    train_loss, train_acc, train_f1, train_pre, train_rec, train_mcc, train_auc, train_aupr = train_one_epoch(
+TypeError: train_one_epoch() missing 1 required positional argument: 'wandb'
+Traceback (most recent call last):
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/pydevconsole.py", line 364, in runcode
+    coro = func()
+  File "<input>", line 1, in <module>
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_bundle/pydev_umd.py", line 198, in runfile
+    pydev_imports.execfile(filename, global_vars, local_vars)  # execute the script
+  File "/root/Downloads/pycharm-community-2023.1/plugins/python-ce/helpers/pydev/_pydev_imps/_pydev_execfile.py", line 18, in execfile
+    exec(compile(contents+"\n", file, 'exec'), glob, loc)
+  File "/root/workspace/myq_206/server-master/main.py", line 38, in <module>
+    main()
+  File "/root/workspace/myq_206/server-master/main.py", line 33, in main
+    model.train(args=args, model=net, train_loader=train_loader, loss_func=loss_func, optimizer=optimizer, val_loader=val_loader, epochs=args.epochs)
+  File "/root/workspace/myq_206/server-master/model.py", line 183, in train
+    train_loss, train_acc, train_f1, train_pre, train_rec, train_mcc, train_auc, train_aupr = train_one_epoch(

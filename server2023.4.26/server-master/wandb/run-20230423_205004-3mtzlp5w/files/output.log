@@ -1,0 +1,17 @@
+
+------------------------第1轮训练------------------------
+运行时间： 2.8918120861053467
+第24次训练的loss=0.46067649126052856
+运行时间： 3.0332441329956055
+第48次训练的loss=0.5199438333511353
+运行时间： 3.175325632095337
+第72次训练的loss=0.4785418212413788
+运行时间： 3.3404951095581055
+第96次训练的loss=0.6260059475898743
+Traceback (most recent call last):
+  File "/root/workspace/myq_206/server-master/model.py", line 152, in val_one_epoch
+    y_pred = model(X)
+  File "/root/miniconda3/envs/myq_py38/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/root/workspace/myq_206/server-master/model.py", line 42, in forward
+    input = input.permute(1, 0, 2, 3)  # ([32, 1, 28, 28])   B,I,W,H
